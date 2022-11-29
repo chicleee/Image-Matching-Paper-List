@@ -1,5 +1,5 @@
 # Image-Matching-Paper-List
-A paper and resource list of image matching and some end-to-end pose estimation, including perspective images and panoramas（marked with :globe_with_meridians:）.
+A list of papers and resources of image matching and pose estimation, including perspective images and panoramas (marked with :globe_with_meridians:).
 
 ## Datasets
 * [MegaDepth](https://www.cs.cornell.edu/projects/megadepth/)
