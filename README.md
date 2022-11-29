@@ -1,23 +1,15 @@
 # Image-Matching-Paper-List
 A personal list of papers and resources for image matching and pose estimation, including perspective images and panoramas (marked with :globe_with_meridians:).
 
-Format:
-
-* Title [[journal & year]()] [[repo]()]
-
-## Datasets
-* [MegaDepth](https://www.cs.cornell.edu/projects/megadepth/)
-* [ScanNet](http://www.scan-net.org/)
-* :globe_with_meridians: [Matterport3D](https://niessner.github.io/Matterport/)
-* :globe_with_meridians: [Zillow Indoor Dataset (ZInD)](https://github.com/zillow/zind)
-
-## Challenges and workshops
-* [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022/overview)
-* [Image Matching Challenge 2021](https://www.cs.ubc.ca/research/image-matching-challenge/current/)
-* [Image Matching Challenge 2020](https://www.cs.ubc.ca/research/image-matching-challenge/2020/)
-* [Image Matching Challenge 2019](https://image-matching-workshop.github.io/leaderboard/)
-* [Image Matching: Local Features and Beyond workshop at CVPR](https://image-matching-workshop.github.io/)
-* :globe_with_meridians: [Omnidirectional Computer Vision workshop at CVPR](https://sites.google.com/view/omnicv2022)
+---
+- [Detector-free matching](#detector-free-matching)
+- [Detector-based matching](#detector-based-matching)
+   - [Keypoints and descriptors](#keypoints-and-descriptors)
+   - [Feature matching](#feature-matching)
+- [Pose estimation](#pose-estimation)
+- [Datasets](#datasets)
+- [Challenges and workshops](#challenges-and-workshops)
+---
 
 ## Detector-free matching
 * Patch2Pix: Epipolar-Guided Pixel-Level Correspondences [[CVPR 2021](https://arxiv.org/pdf/2012.01909.pdf)] [[patch2pix](https://github.com/GrumpyZhou/patch2pix)]
@@ -31,6 +23,8 @@ Format:
 * ASpaFormer: Detector-Free Matching with Adaptive Span Transformer [[ECCV 2022](https://arxiv.org/pdf/2208.14201.pdf)] [[aspanformer-initial-release](https://github.com/slyxsw/aspanformer-initial-release)]
 * TopicFM: Robust and Interpretable Topic-Assisted Feature Matching [[AAAI 2023](https://arxiv.org/pdf/2207.00328.pdf)] [[TopicFM](https://github.com/TruongKhang/TopicFM)]
 
+
+---
 ## Detector-based matching
 ### Keypoints and descriptors
 * :globe_with_meridians: SPHORB: A Fast and Robust Binary Feature on the Sphere [[IJCV 2015](http://cic.tju.edu.cn/faculty/lwan/paper/SPHORB/SPHORB.html)] [[SPHORB](https://github.com/tdsuper/SPHORB)]
@@ -44,6 +38,7 @@ Format:
 * SuperGlue: Learning Feature Matching with Graph Neural Networks [[CVPR 2020](https://arxiv.org/pdf/1911.11763.pdf)] [[SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork)]
 * Learning to Match Features with Seeded Graph Matching Network [[ICCV 2021](https://arxiv.org/pdf/2108.08771.pdf)] [[SGMNet](https://github.com/vdvchen/SGMNet)]
 
+---
 ## Pose estimation
 * Wide-Baseline Relative Camera Pose Estimation with Directional Learning [[CVPR 2021](https://arxiv.org/pdf/2106.03336.pdf)] [[DirectionNet](https://github.com/arthurchen0518/DirectionNet)]
 * :globe_with_meridians: Robust 360-8PA: Redesigning The Normalized 8-point Algorithm for 360-FoV Images [[ICRA 2021](https://arxiv.org/pdf/2104.10900.pdf)] [[robust_360_8PA](https://github.com/EnriqueSolarte/robust_360_8PA)]
@@ -53,5 +48,22 @@ Format:
 * :globe_with_meridians: CoVisPose: Co-visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360  Indoor Panoramas [[ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)] [[]()]
 * :globe_with_meridians: GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network [[arXiv 2022](https://arxiv.org/pdf/2210.11419.pdf)] [[]()]
 
+---
+## Datasets
+* [MegaDepth](https://www.cs.cornell.edu/projects/megadepth/)
+* [ScanNet](http://www.scan-net.org/)
+* :globe_with_meridians: [Matterport3D](https://niessner.github.io/Matterport/)
+* :globe_with_meridians: [Zillow Indoor Dataset (ZInD)](https://github.com/zillow/zind)
 
+---
+## Challenges and workshops
+* [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022/overview)
+* [Image Matching Challenge 2021](https://www.cs.ubc.ca/research/image-matching-challenge/current/)
+* [Image Matching Challenge 2020](https://www.cs.ubc.ca/research/image-matching-challenge/2020/)
+* [Image Matching Challenge 2019](https://image-matching-workshop.github.io/leaderboard/)
+* [Image Matching: Local Features and Beyond workshop at CVPR](https://image-matching-workshop.github.io/)
+* :globe_with_meridians: [Omnidirectional Computer Vision workshop at CVPR](https://sites.google.com/view/omnicv2022)
 
+---
+Format:
+* Title [[journal & year]()] [[repo]()]
