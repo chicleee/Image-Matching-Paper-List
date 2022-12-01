@@ -34,7 +34,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
 * QuadTree Attention for Vision Transformers [[ICLR 2022](https://arxiv.org/pdf/2201.02767.pdf)] [[QuadTreeAttention](https://github.com/Tangshitao/QuadTreeAttention)]
 
-* Deep Kernelized Dense Geometric Matching [[arXiv 2022](https://arxiv.org/pdf/2202.00667.pdf)] [[DKM](https://github.com/Parskatt/DKM)]
+* DKM: Dense Kernelized Feature Matching for Geometry Estimation [[arXiv 2022](https://arxiv.org/pdf/2202.00667.pdf)] [[DKM](https://github.com/Parskatt/DKM)]
 
 * ASpaFormer: Detector-Free Matching with Adaptive Span Transformer [[ECCV 2022](https://arxiv.org/pdf/2208.14201.pdf)] [[aspanformer-initial-release](https://github.com/slyxsw/aspanformer-initial-release)]
 
@@ -95,6 +95,8 @@ A personal list of papers and resources for image matching and pose estimation, 
 
 ---
 ## Datasets
+* [HPatches](https://github.com/hpatches/hpatches-dataset)
+* [YFCC100M](https://multimediacommons.wordpress.com/yfcc100m-core-dataset/)
 * [MegaDepth](https://www.cs.cornell.edu/projects/megadepth/)
 * [ScanNet](http://www.scan-net.org/)
 * :globe_with_meridians: [Matterport3D](https://niessner.github.io/Matterport/)
