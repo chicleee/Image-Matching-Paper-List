@@ -2,10 +2,10 @@
 A personal list of papers and resources for image matching and pose estimation, including perspective images and panoramas (marked with :globe_with_meridians:).
 
 ---
-- [Sparse matcing (detector-based)](#sparse)
+- [Sparse matching (detector-based)](#sparse)
    - [Keypoints and descriptors](#keypoints-and-descriptors)
    - [Feature matching](#feature-matching)
-- [Semi-sparse matcing (detector-free)](#semi-sparse)
+- [Semi-sparse matching (detector-free)](#semi-sparse)
 - [Dense matching](#dense)
 - [Pose estimation and others](#pose-estimation-and-others)
 - [Datasets](#datasets)
