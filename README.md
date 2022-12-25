@@ -43,7 +43,7 @@ A personal list of papers and resources for image matching and pose estimation, 
    * Co-attention for conditioned image matching
     [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Wiles_Co-Attention_for_Conditioned_Image_Matching_CVPR_2021_paper.pdf)] [[coam](https://github.com/hyenal/coam)]
     
-   * Rethinking Low-level Features for Interest Point Detection and Description [[ACCVC 2022]([https://arxiv.org/pdf/2112.02906.pdf](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Rethinking_Low-level_Features_for_Interest_Point_Detection_and_Description_ACCV_2022_paper.pdf))] [[lanet](https://github.com/wangch-g/lanet)]   
+   * Rethinking Low-level Features for Interest Point Detection and Description [[ACCVC 2022](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Rethinking_Low-level_Features_for_Interest_Point_Detection_and_Description_ACCV_2022_paper.pdf)] [[lanet](https://github.com/wangch-g/lanet)]   
    
    * ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction [[TMM 2022](https://arxiv.org/pdf/2112.02906.pdf)] [[ALIKE](https://github.com/Shiaoming/ALIKE)]
 
@@ -56,7 +56,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * Learning to Match Features with Seeded Graph Matching Network [[ICCV 2021](https://arxiv.org/pdf/2108.08771.pdf)] [[SGMNet](https://github.com/vdvchen/SGMNet)]
 
-   * ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching [[CVPR 2022]([https://arxiv.org/pdf/2108.08771.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_ClusterGNN_Cluster-Based_Coarse-To-Fine_Graph_Neural_Network_for_Efficient_Feature_Matching_CVPR_2022_paper.pdf))] [[]()]
+   * ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_ClusterGNN_Cluster-Based_Coarse-To-Fine_Graph_Neural_Network_for_Efficient_Feature_Matching_CVPR_2022_paper.pdf)] [[]()]
 
 ---
 ## Semi-dense
@@ -128,7 +128,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * :globe_with_meridians: GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network [[arXiv 2022](https://arxiv.org/pdf/2210.11419.pdf)] [[]()]
 
-   * GRelPose: Generalizable End-to-End Relative Camera Pose Regression [[arXiv 2022]([https://arxiv.org/pdf/2210.11419.pdf)](https://arxiv.org/pdf/2211.14950.pdf)] [[GRelPose](https://fadikhateeb.github.io/GRelPose/)]
+   * GRelPose: Generalizable End-to-End Relative Camera Pose Regression [[arXiv 2022](https://arxiv.org/pdf/2211.14950.pdf)] [[GRelPose](https://fadikhateeb.github.io/GRelPose/)]
 
 
 
