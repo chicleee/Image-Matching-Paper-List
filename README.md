@@ -28,6 +28,9 @@ A personal list of papers and resources for image matching and pose estimation, 
    * Efficient adaptive non-maximal suppression algorithms for homogeneous spatial keypoint distribution [[Pattern Recognition Letters 2018](https://www.researchgate.net/publication/323388062_Efficient_adaptive_non-maximal_suppression_algorithms_for_homogeneous_spatial_keypoint_distribution)] [[ANMS-Codes](https://github.com/BAILOOL/ANMS-Codes)]
 
    * SuperPoint: Self-Supervised Interest Point Detection and Description [[CVPRW 2018](https://arxiv.org/pdf/1712.07629.pdf)] [[SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork)]
+   
+   * Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters [[ICCV 2019](https://arxiv.org/pdf/1904.00889.pdf)] [[Key.Net-Pytorch](hhttps://github.com/axelBarroso/Key.Net-Pytorch)]
+
 
    * D2-net: A trainable cnn for joint description and detection of local features [[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)] [[d2-net](https://github.com/mihaidusmanu/d2-net)]
 
@@ -39,7 +42,9 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * Co-attention for conditioned image matching
     [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Wiles_Co-Attention_for_Conditioned_Image_Matching_CVPR_2021_paper.pdf)] [[coam](https://github.com/hyenal/coam)]
-
+    
+   * Rethinking Low-level Features for Interest Point Detection and Description [[ACCVC 2022]([https://arxiv.org/pdf/2112.02906.pdf](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Rethinking_Low-level_Features_for_Interest_Point_Detection_and_Description_ACCV_2022_paper.pdf))] [[lanet](https://github.com/wangch-g/lanet)]   
+   
    * ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction [[TMM 2022](https://arxiv.org/pdf/2112.02906.pdf)] [[ALIKE](https://github.com/Shiaoming/ALIKE)]
 
 ### Feature matching
@@ -50,6 +55,8 @@ A personal list of papers and resources for image matching and pose estimation, 
    * SuperGlue: Learning Feature Matching with Graph Neural Networks [[CVPR 2020](https://arxiv.org/pdf/1911.11763.pdf)] [[SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork)]
 
    * Learning to Match Features with Seeded Graph Matching Network [[ICCV 2021](https://arxiv.org/pdf/2108.08771.pdf)] [[SGMNet](https://github.com/vdvchen/SGMNet)]
+
+   * ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching [[CVPR 2022]([https://arxiv.org/pdf/2108.08771.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_ClusterGNN_Cluster-Based_Coarse-To-Fine_Graph_Neural_Network_for_Efficient_Feature_Matching_CVPR_2022_paper.pdf))] [[]()]
 
 ---
 ## Semi-dense
@@ -75,6 +82,8 @@ A personal list of papers and resources for image matching and pose estimation, 
    * Local Feature Matching with Transformers for low-end devices [[arXiv 2022](https://arxiv.org/pdf/2202.00770.pdf)] [[Coarse_LoFTR_TRT](https://github.com/Kolkir/Coarse_LoFTR_TRT)]
 
    * QuadTree Attention for Vision Transformers [[ICLR 2022](https://arxiv.org/pdf/2201.02767.pdf)] [[QuadTreeAttention](https://github.com/Tangshitao/QuadTreeAttention)]
+
+   * MatchFormer: Interleaving Attention in Transformers for Feature Matching [[ACCV 2022](https://arxiv.org/pdf/2201.02767.pdf)] [[MatchFormer](https://github.com/jamycheung/MatchFormer)]
 
    * ASpaFormer: Detector-Free Matching with Adaptive Span Transformer [[ECCV 2022](https://arxiv.org/pdf/2208.14201.pdf)] [[aspanformer-initial-release](https://github.com/slyxsw/aspanformer-initial-release)]
 
@@ -118,6 +127,10 @@ A personal list of papers and resources for image matching and pose estimation, 
    * :globe_with_meridians: CoVisPose: Co-visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360  Indoor Panoramas [[ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)] [[]()]
 
    * :globe_with_meridians: GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network [[arXiv 2022](https://arxiv.org/pdf/2210.11419.pdf)] [[]()]
+
+   * GRelPose: Generalizable End-to-End Relative Camera Pose Regression [[arXiv 2022]([https://arxiv.org/pdf/2210.11419.pdf)](https://arxiv.org/pdf/2211.14950.pdf)] [[GRelPose](https://fadikhateeb.github.io/GRelPose/)]
+
+
 
 ---
 ## Datasets
