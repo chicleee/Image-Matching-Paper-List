@@ -5,7 +5,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 - [Sparse matching (detector-based)](#sparse)
    - [Keypoints and descriptors](#keypoints-and-descriptors)
    - [Feature matching](#feature-matching)
-- [Semi-sparse matching (detector-free)](#semi-sparse)
+- [Semi-dense matching (detector-free)](#semi-sparse)
 - [Dense matching](#dense)
 - [Pose estimation and others](#pose-estimation-and-others)
 - [Datasets](#datasets)
@@ -52,7 +52,7 @@ A personal list of papers and resources for image matching and pose estimation, 
    * Learning to Match Features with Seeded Graph Matching Network [[ICCV 2021](https://arxiv.org/pdf/2108.08771.pdf)] [[SGMNet](https://github.com/vdvchen/SGMNet)]
 
 ---
-## Semi-sparse
+## Semi-dense
 
    * Neighbourhood Consensus Networks [[NeurIPS 2018](https://proceedings.neurips.cc/paper/2018/file/8f7d807e1f53eff5f9efbe5cb81090fb-Paper.pdf)] [[]()]
 
