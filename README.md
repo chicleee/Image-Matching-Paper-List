@@ -5,7 +5,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 - [Sparse matching (detector-based)](#sparse)
    - [Keypoints and descriptors](#keypoints-and-descriptors)
    - [Feature matching](#feature-matching)
-- [Semi-dense matching (detector-free)](#semi-sparse)
+- [Semi-dense matching (detector-free)](#semi-dense)
 - [Dense matching](#dense)
 - [Pose estimation and others](#pose-estimation-and-others)
 - [Datasets](#datasets)
@@ -29,7 +29,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * SuperPoint: Self-Supervised Interest Point Detection and Description [[CVPRW 2018](https://arxiv.org/pdf/1712.07629.pdf)] [[SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork)]
    
-   * Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters [[ICCV 2019](https://arxiv.org/pdf/1904.00889.pdf)] [[Key.Net-Pytorch](hhttps://github.com/axelBarroso/Key.Net-Pytorch)]
+   * Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters [[ICCV 2019](https://arxiv.org/pdf/1904.00889.pdf)] [[Key.Net-Pytorch](https://github.com/axelBarroso/Key.Net-Pytorch)]
 
 
    * D2-net: A trainable cnn for joint description and detection of local features [[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)] [[d2-net](https://github.com/mihaidusmanu/d2-net)]
