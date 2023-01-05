@@ -85,7 +85,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * MatchFormer: Interleaving Attention in Transformers for Feature Matching [[ACCV 2022](https://arxiv.org/pdf/2201.02767.pdf)] [[MatchFormer](https://github.com/jamycheung/MatchFormer)]
 
-   * ASpaFormer: Detector-Free Matching with Adaptive Span Transformer [[ECCV 2022](https://arxiv.org/pdf/2208.14201.pdf)] [[aspanformer-initial-release](https://github.com/slyxsw/aspanformer-initial-release)]
+   * ASpaFormer: Detector-Free Matching with Adaptive Span Transformer [[ECCV 2022](https://arxiv.org/pdf/2208.14201.pdf)] [[ml-aspanformer](https://github.com/apple/ml-aspanformer)]
 
    * TopicFM: Robust and Interpretable Topic-Assisted Feature Matching [[AAAI 2023](https://arxiv.org/pdf/2207.00328.pdf)] [[TopicFM](https://github.com/TruongKhang/TopicFM)]
 
@@ -104,7 +104,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * Pdc-net+: Enhanced probabilistic dense correspondence network [[arxiv 2021](https://arxiv.org/pdf/2109.13912.pdf)] [[DenseMatching](https://github.com/PruneTruong/DenseMatching)]
 
-   * COTR: Correspondence Transformer for Matching Across Images [ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_COTR_Correspondence_Transformer_for_Matching_Across_Images_ICCV_2021_paper.pdf)] [[COTR](https://github.com/ubc-vision/COTR)]
+   * COTR: Correspondence Transformer for Matching Across Images [[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_COTR_Correspondence_Transformer_for_Matching_Across_Images_ICCV_2021_paper.pdf)] [[COTR](https://github.com/ubc-vision/COTR)]
 
    * ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement [[ECCV 2022](https://arxiv.org/pdf/2209.12213.pdf)] [[ECO-TR](https://github.com/dltan7/ECO-TR)]
 
