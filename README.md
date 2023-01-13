@@ -87,9 +87,9 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * ASpanFormer: Detector-Free Matching with Adaptive Span Transformer [[ECCV 2022](https://arxiv.org/pdf/2208.14201.pdf)] [[ml-aspanformer](https://github.com/apple/ml-aspanformer)]
 
-   * DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching [[AAAI 2023](https://arxiv.org/pdf/2207.00328.pdf)] [[TopicFM](https://github.com/TruongKhang/TopicFM)]
+   * TopicFM: Robust and Interpretable Topic-Assisted Feature Matching [[AAAI 2023](https://arxiv.org/pdf/2207.00328.pdf)] [[TopicFM](https://github.com/TruongKhang/TopicFM)]
    
-   * TopicFM: Robust and Interpretable Topic-Assisted Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2301.02993v1.pdf)] [[DeepMatcher](https://github.com/XT-1997/DeepMatcher)]
+   * DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2301.02993v1.pdf)] [[DeepMatcher](https://github.com/XT-1997/DeepMatcher)]
    
 ---
 ## Dense
