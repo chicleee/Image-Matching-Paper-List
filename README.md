@@ -49,6 +49,11 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * Decoupling Makes Weakly Supervised Local Feature Better [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Decoupling_Makes_Weakly_Supervised_Local_Feature_Better_CVPR_2022_paper.pdf)] [[PoSFeat](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)]
 
+   * Shared Coupling-bridge for Weakly Supervised Local Feature Learning [[Arxiv 2022](https://arxiv.org/pdf/2212.07047.pdf)] [[SCFeat](https://github.com/sunjiayuanro/SCFeat)]
+
+   * Robust feature matching via progressive smoothness consensus [[ISPRS 2023](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000229)] [[Robust-feature-matching-via-Progressive-Smoothness-Consensus](https://github.com/XiaYifan1999/Robust-feature-matching-via-Progressive-Smoothness-Consensus)]
+
+
 ### Feature matching
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
 
@@ -111,6 +116,8 @@ A personal list of papers and resources for image matching and pose estimation, 
    * COTR: Correspondence Transformer for Matching Across Images [[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_COTR_Correspondence_Transformer_for_Matching_Across_Images_ICCV_2021_paper.pdf)] [[COTR](https://github.com/ubc-vision/COTR)]
 
    * ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement [[ECCV 2022](https://arxiv.org/pdf/2209.12213.pdf)] [[ECO-TR](https://github.com/dltan7/ECO-TR)]
+   
+   * PUMP: Pyramidal and Uniqueness Matching Priors for Unsupervised Learning of Local Descriptors [[CVPR 2022](https://arxiv.org/pdf/2202.00667.pdf)] [[pump](https://github.com/naver/pump)]
 
    * DKM: Dense Kernelized Feature Matching for Geometry Estimation [[arXiv 2022](https://arxiv.org/pdf/2202.00667.pdf)] [[DKM](https://github.com/Parskatt/DKM)]
 
@@ -137,7 +144,10 @@ A personal list of papers and resources for image matching and pose estimation, 
    * :globe_with_meridians: GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network [[arXiv 2022](https://arxiv.org/pdf/2210.11419.pdf)] [[]()]
 
    * GRelPose: Generalizable End-to-End Relative Camera Pose Regression [[arXiv 2022](https://arxiv.org/pdf/2211.14950.pdf)] [[GRelPose](https://fadikhateeb.github.io/GRelPose/)]
-
+      
+   
+   * Uncertainty-Driven Dense Two-View Structure from Motion [[arXiv 2023](https://arxiv.org/pdf/2302.00523.pdf)] [[]()]
+   
 
 
 ---
