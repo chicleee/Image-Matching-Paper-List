@@ -47,6 +47,8 @@ A personal list of papers and resources for image matching and pose estimation, 
    
    * ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction [[TMM 2022](https://arxiv.org/pdf/2112.02906.pdf)] [[ALIKE](https://github.com/Shiaoming/ALIKE)]
 
+   * Decoupling Makes Weakly Supervised Local Feature Better [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Decoupling_Makes_Weakly_Supervised_Local_Feature_Better_CVPR_2022_paper.pdf)] [[PoSFeat](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)]
+
 ### Feature matching
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
 
