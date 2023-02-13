@@ -97,7 +97,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * QuadTree Attention for Vision Transformers [[ICLR 2022](https://arxiv.org/pdf/2201.02767.pdf)] [[QuadTreeAttention](https://github.com/Tangshitao/QuadTreeAttention)]
 
-   * MatchFormer: Interleaving Attention in Transformers for Feature Matching [[ACCV 2022](https://arxiv.org/pdf/2201.02767.pdf)] [[MatchFormer](https://github.com/jamycheung/MatchFormer)]
+   * MatchFormer: Interleaving Attention in Transformers for Feature Matching [[ACCV 2022](https://arxiv.org/pdf/2203.09645.pdf)] [[MatchFormer](https://github.com/jamycheung/MatchFormer)]
 
    * ASpanFormer: Detector-Free Matching with Adaptive Span Transformer [[ECCV 2022](https://arxiv.org/pdf/2208.14201.pdf)] [[ml-aspanformer](https://github.com/apple/ml-aspanformer)]
 
