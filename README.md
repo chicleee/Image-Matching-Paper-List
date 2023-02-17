@@ -63,7 +63,9 @@ A personal list of papers and resources for image matching and pose estimation, 
    * Learning to Find Good Correspondences [[CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yi_Learning_to_Find_CVPR_2018_paper.pdf)] [[learned-correspondence-release](https://github.com/vcg-uvic/learned-correspondence-release)]
  
    * ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning [[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_ACNe_Attentive_Context_Normalization_for_Robust_Permutation-Equivariant_Learning_CVPR_2020_paper.pdf)] [[acne](https://github.com/vcg-uvic/acne)]
-   
+
+   * PGFNet: Preference-Guided Filtering Network for Two-View Correspondence Learning [[TIP 2023](https://ieeexplore.ieee.org/document/10041834)] [[PGFNet](https://github.com/guobaoxiao/PGFNet)]
+
 
 #### Matcher
    * SuperGlue: Learning Feature Matching with Graph Neural Networks [[CVPR 2020](https://arxiv.org/pdf/1911.11763.pdf)] [[SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork)]
@@ -105,6 +107,9 @@ A personal list of papers and resources for image matching and pose estimation, 
    
    * DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2301.02993v1.pdf)] [[DeepMatcher](https://github.com/XT-1997/DeepMatcher)]
    
+   * OAMatcher: An Overlapping Areas-based Network for Accurate Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2302.05846.pdf)] [[OAMatcher](https://github.com/DK-HU/OAMatcher)]
+
+
 ---
 ## Dense
 
