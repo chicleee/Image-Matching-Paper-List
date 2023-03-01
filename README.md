@@ -135,7 +135,15 @@ A personal list of papers and resources for image matching and pose estimation, 
 
 ---
 ## Pose estimation and others
-   * :globe_with_meridians: Structure from motion using full spherical panoramic cameras [[ICCVW 2011](http://av.dfki.de/~pagani/papers/Pagani2011_OMNIVIS.pdf)] [[repo]()]
+   * :globe_with_meridians: Structure from motion using full spherical panoramic cameras [[ICCVW 2011](http://av.dfki.de/~pagani/papers/Pagani2011_OMNIVIS.pdf)] [[]()]
+
+   * PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization [[ICCV 2015](https://openaccess.thecvf.com/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf)] [[PoseNet](https://github.com/crafterrr/PoseNet)]
+   
+  * Relative Camera Pose Estimation Using Convolutional Neural Networks [[ACIVS 2017](https://arxiv.org/pdf/1702.01381.pdf)] [[relativeCameraPose](https://github.com/AaltoVision/relativeCameraPose)]
+
+  * DSAC - Differentiable RANSAC for Camera Localization [[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.pdf)] [[DSAC](https://github.com/cvlab-dresden/DSAC)]
+
+   * RPNet: an End-to-End Network for Relative Camera Pose Estimation [[ECCVW 2018](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/En_RPNet_an_End-to-End_Network_for_Relative_Camera_Pose_Estimation_ECCVW_2018_paper.pdf)] [[RPNet](https://github.com/ensv/RPNet)]
 
    * Camera relocalization by computing pairwise relative poses using convolutional neural network [[ICCVW 2017](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Laskar_Camera_Relocalization_by_ICCV_2017_paper.pdf)] [[RelPoseNet](https://github.com/AaltoVision/RelPoseNet)]
    
@@ -155,9 +163,12 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * :globe_with_meridians: GPR-Net: Multi-view Layout Estimation via a Geometry-aware Panorama Registration Network [[arXiv 2022](https://arxiv.org/pdf/2210.11419.pdf)] [[]()]
 
-   * GRelPose: Generalizable End-to-End Relative Camera Pose Regression [[arXiv 2022](https://arxiv.org/pdf/2211.14950.pdf)] [[GRelPose](https://fadikhateeb.github.io/GRelPose/)]
-      
+   * RelMobNet: End-to-end relative camera pose estimation using a robust two-stage training [[arXiv 2022](https://arxiv.org/pdf/2202.12838.pdf)] [[]()]
    
+   * GRelPose: Generalizable End-to-End Relative Camera Pose Regression [[arXiv 2022](https://arxiv.org/pdf/2211.14950.pdf)] [[GRelPose](https://fadikhateeb.github.io/GRelPose/)]
+         
+   * A Lightweight Domain Adaptive Absolute Pose Regressor Using BARLOW TWINS Objective [[arXiv 2022](https://arxiv.org/pdf/2211.10963.pdf)] [[]()]
+      
    * Uncertainty-Driven Dense Two-View Structure from Motion [[arXiv 2023](https://arxiv.org/pdf/2302.00523.pdf)] [[]()]
    
 
