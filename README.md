@@ -138,7 +138,9 @@ A personal list of papers and resources for image matching and pose estimation, 
    * :globe_with_meridians: Structure from motion using full spherical panoramic cameras [[ICCVW 2011](http://av.dfki.de/~pagani/papers/Pagani2011_OMNIVIS.pdf)] [[]()]
 
    * PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization [[ICCV 2015](https://openaccess.thecvf.com/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf)] [[PoseNet](https://github.com/crafterrr/PoseNet)]
-   
+     
+   * Geometric loss functions for camera pose regression with deep learning [[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kendall_Geometric_Loss_Functions_CVPR_2017_paper.pdf)] [[]()]
+ 
   * Relative Camera Pose Estimation Using Convolutional Neural Networks [[ACIVS 2017](https://arxiv.org/pdf/1702.01381.pdf)] [[relativeCameraPose](https://github.com/AaltoVision/relativeCameraPose)]
 
   * DSAC - Differentiable RANSAC for Camera Localization [[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.pdf)] [[DSAC](https://github.com/cvlab-dresden/DSAC)]
@@ -147,9 +149,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * Camera relocalization by computing pairwise relative poses using convolutional neural network [[ICCVW 2017](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Laskar_Camera_Relocalization_by_ICCV_2017_paper.pdf)] [[RelPoseNet](https://github.com/AaltoVision/RelPoseNet)]
    
-   
    * Deep Keypoint-Based Camera Pose Estimation with Geometric Constraints [[IROS 2020](https://arxiv.org/pdf/2007.15122.pdf)] [[pytorch-deepFEPE](https://github.com/eric-yyjau/pytorch-deepFEPE)]
-
    
    * Wide-Baseline Relative Camera Pose Estimation with Directional Learning [[CVPR 2021](https://arxiv.org/pdf/2106.03336.pdf)] [[DirectionNet](https://github.com/arthurchen0518/DirectionNet)]
 
