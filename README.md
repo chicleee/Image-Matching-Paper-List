@@ -175,7 +175,7 @@ A personal list of papers and resources for image matching and pose estimation, 
       
    * Uncertainty-Driven Dense Two-View Structure from Motion [[arXiv 2023](https://arxiv.org/pdf/2302.00523.pdf)] [[]()]
    
-
+   * CGA-PoseNet: Camera Pose Regression via a 1D-Up Approach to Conformal Geometric Algebra [[arXiv 2023](https://arxiv.org/pdf/2302.05211.pdf)] [[]()]
 
 ---
 ## Datasets
