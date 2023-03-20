@@ -131,7 +131,7 @@ A personal list of papers and resources for image matching and pose estimation, 
    
    * PUMP: Pyramidal and Uniqueness Matching Priors for Unsupervised Learning of Local Descriptors [[CVPR 2022](https://arxiv.org/pdf/2202.00667.pdf)] [[pump](https://github.com/naver/pump)]
 
-   * DKM: Dense Kernelized Feature Matching for Geometry Estimation [[arXiv 2022](https://arxiv.org/pdf/2202.00667.pdf)] [[DKM](https://github.com/Parskatt/DKM)]
+   * DKM: Dense Kernelized Feature Matching for Geometry Estimation [[CVPR 2023](https://arxiv.org/pdf/2202.00667.pdf)] [[DKM](https://github.com/Parskatt/DKM)]
 
 ---
 ## Pose estimation and others
