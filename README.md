@@ -109,6 +109,8 @@ A personal list of papers and resources for image matching and pose estimation, 
    
    * OAMatcher: An Overlapping Areas-based Network for Accurate Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2302.05846.pdf)] [[OAMatcher](https://github.com/DK-HU/OAMatcher)]
 
+   * PATS: Patch Area Transportation with Subdivision for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.07700.pdf)] [[]()]
+
 
 ---
 ## Dense
