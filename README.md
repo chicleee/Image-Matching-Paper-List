@@ -113,6 +113,9 @@ A personal list of papers and resources for image matching and pose estimation, 
    
    * PA-LoFTR: Local Feature Matching with 3D Position-Aware Transformer [[arXiv 2023](https://openreview.net/pdf?id=U8MtHLRK06q)] [[]()]
 
+   * Structured Epipolar Matcher for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16646.pdf)] [[]()]
+
+   * Adaptive Spot-Guided Transformer for Consistent Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16624.pdf)] [[]()]
 ---
 ## Dense
 
@@ -147,6 +150,8 @@ A personal list of papers and resources for image matching and pose estimation, 
   * Relative Camera Pose Estimation Using Convolutional Neural Networks [[ACIVS 2017](https://arxiv.org/pdf/1702.01381.pdf)] [[relativeCameraPose](https://github.com/AaltoVision/relativeCameraPose)]
 
   * DSAC - Differentiable RANSAC for Camera Localization [[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.pdf)] [[DSAC](https://github.com/cvlab-dresden/DSAC)]
+
+  * Generalized Differentiable RANSAC [[arXiv 2022](https://www.researchgate.net/profile/Daniel-Barath/publication/366603570_Generalized_Differentiable_RANSAC/links/6422eea2a1b72772e431871a/Generalized-Differentiable-RANSAC.pdf)] [[differentiable_ransac](https://github.com/weitong8591/differentiable_ransac)]
 
    * RPNet: an End-to-End Network for Relative Camera Pose Estimation [[ECCVW 2018](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11129/En_RPNet_an_End-to-End_Network_for_Relative_Camera_Pose_Estimation_ECCVW_2018_paper.pdf)] [[RPNet](https://github.com/ensv/RPNet)]
 
