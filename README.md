@@ -201,6 +201,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
 ---
 ## Challenges and workshops
+   * [Image Matching Challenge 2023](https://www.kaggle.com/competitions/image-matching-challenge-2023)
    * [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022/overview)
    * [Image Matching Challenge 2021](https://www.cs.ubc.ca/research/image-matching-challenge/current/)
    * [Image Matching Challenge 2020](https://www.cs.ubc.ca/research/image-matching-challenge/2020/)
