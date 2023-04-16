@@ -52,6 +52,8 @@ A personal list of papers and resources for image matching and pose estimation, 
    * Shared Coupling-bridge for Weakly Supervised Local Feature Learning [[Arxiv 2022](https://arxiv.org/pdf/2212.07047.pdf)] [[SCFeat](https://github.com/sunjiayuanro/SCFeat)]
 
    * Robust feature matching via progressive smoothness consensus [[ISPRS 2023](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000229)] [[Robust-feature-matching-via-Progressive-Smoothness-Consensus](https://github.com/XiaYifan1999/Robust-feature-matching-via-Progressive-Smoothness-Consensus)]
+  
+  * SiLK: Simple Learned Keypoints [[Arxiv 2023](https://arxiv.org/pdf/2304.06194v1.pdf)] [[silk](https://github.com/facebookresearch/silk)]
 
 
 ### Feature matching
