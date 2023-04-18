@@ -119,7 +119,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * Structured Epipolar Matcher for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16646.pdf)] [[]()]
 
-   * Adaptive Spot-Guided Transformer for Consistent Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16624.pdf)] [[]()]
+   * Adaptive Spot-Guided Transformer for Consistent Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16624.pdf)] [[astr](https://astr2023.github.io/)]
    
    * GlueStick: Robust Image Matching by Sticking Points and Lines Together [[arXiv 2023](https://arxiv.org/pdf/2304.02008v1.pdf)] [[GlueStick](https://github.com/cvg/GlueStick)]
    
