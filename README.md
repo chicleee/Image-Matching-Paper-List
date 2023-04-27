@@ -57,6 +57,11 @@ A personal list of papers and resources for image matching and pose estimation, 
   
   * ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation [[Arxiv 2023](https://arxiv.org/pdf/2304.03608.pdf)] [[ALIKED](https://github.com/Shiaoming/ALIKED)]
 
+  * MTLDesc: Looking Wider to Describe Better [[AAAI 2022](https://arxiv.org/pdf/2203.07003.pdf)] [[mtldesc](https://github.com/vignywang/mtldesc)]
+
+  * MTLDesc: Looking Wider to Describe Better [[TPAMI 2023](https://ieeexplore.ieee.org/abstract/document/10105519/)] [[AWDesc](https://github.com/vignywang/AWDesc)]
+  
+  * FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network [[CVPR 2023](https://arxiv.org/pdf/2211.15069.pdf)] [[FeatureBooster](https://github.com/SJTU-ViSYS/FeatureBooster)]
 
 ### Feature matching
 #### Filter
@@ -116,7 +121,9 @@ A personal list of papers and resources for image matching and pose estimation, 
    * PATS: Patch Area Transportation with Subdivision for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.07700.pdf)] [[]()]
    
    * PA-LoFTR: Local Feature Matching with 3D Position-Aware Transformer [[arXiv 2023](https://openreview.net/pdf?id=U8MtHLRK06q)] [[]()]
-
+   
+   * Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints [[arXiv 2023](https://arxiv.org/pdf/2303.02885.pdf)] [[]()]
+   
    * Structured Epipolar Matcher for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16646.pdf)] [[]()]
 
    * Adaptive Spot-Guided Transformer for Consistent Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16624.pdf)] [[astr](https://astr2023.github.io/)]
