@@ -49,13 +49,13 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * Decoupling Makes Weakly Supervised Local Feature Better [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Decoupling_Makes_Weakly_Supervised_Local_Feature_Better_CVPR_2022_paper.pdf)] [[PoSFeat](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)]
 
-   * Shared Coupling-bridge for Weakly Supervised Local Feature Learning [[Arxiv 2022](https://arxiv.org/pdf/2212.07047.pdf)] [[SCFeat](https://github.com/sunjiayuanro/SCFeat)]
+   * Shared Coupling-bridge for Weakly Supervised Local Feature Learning [[arXiv 2022](https://arxiv.org/pdf/2212.07047.pdf)] [[SCFeat](https://github.com/sunjiayuanro/SCFeat)]
 
    * Robust feature matching via progressive smoothness consensus [[ISPRS 2023](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000229)] [[Robust-feature-matching-via-Progressive-Smoothness-Consensus](https://github.com/XiaYifan1999/Robust-feature-matching-via-Progressive-Smoothness-Consensus)]
   
-  * SiLK: Simple Learned Keypoints [[Arxiv 2023](https://arxiv.org/pdf/2304.06194v1.pdf)] [[silk](https://github.com/facebookresearch/silk)]
+  * SiLK: Simple Learned Keypoints [[arXiv 2023](https://arxiv.org/pdf/2304.06194v1.pdf)] [[silk](https://github.com/facebookresearch/silk)]
   
-  * ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation [[Arxiv 2023](https://arxiv.org/pdf/2304.03608.pdf)] [[ALIKED](https://github.com/Shiaoming/ALIKED)]
+  * ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation [[arXiv 2023](https://arxiv.org/pdf/2304.03608.pdf)] [[ALIKED](https://github.com/Shiaoming/ALIKED)]
 
   * MTLDesc: Looking Wider to Describe Better [[AAAI 2022](https://arxiv.org/pdf/2203.07003.pdf)] [[mtldesc](https://github.com/vignywang/mtldesc)]
 
@@ -63,6 +63,8 @@ A personal list of papers and resources for image matching and pose estimation, 
   
   * FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network [[CVPR 2023](https://arxiv.org/pdf/2211.15069.pdf)] [[FeatureBooster](https://github.com/SJTU-ViSYS/FeatureBooster)]
 
+  * SFD2: Semantic-guided Feature Detection and Description [[arXiv 2023](https://arxiv.org/pdf/2304.14845.pdf)] [[sfd2](https://github.com/feixue94/sfd2)]
+  
 ### Feature matching
 #### Filter
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
@@ -132,6 +134,9 @@ A personal list of papers and resources for image matching and pose estimation, 
    
    * E3CM: Epipolar-Constrained Cascade Correspondence Matching [[ssrn](https://deliverypdf.ssrn.com/delivery.php?ID=466101127096068115002104021110028109028027010042065026093047035108019046034025018076127124085118082122091102017004101067070000026084031074101107098016015007037090116038089124089041109039116122125126054094010014019119091093096019011031074029016031100089074070066098000006105073022119064086107&EXT=pdf&INDEX=TRUE)] [[]()]
 
+  * MAIM: a mixer MLP architecture for image matching [[Unknown 2023](https://www.researchgate.net/publication/370365750_MAIM_a_mixer_MLP_architecture_for_image_matching)] [[]()]
+ 
+ * Searching from Area to Point: A Hierarchical Framework for Semantic-Geometric Combined Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2305.00194.pdf)] [[]()]
 
 
 ---
