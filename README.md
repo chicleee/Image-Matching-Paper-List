@@ -210,6 +210,8 @@ A personal list of papers and resources for image matching and pose estimation, 
    
    * CGA-PoseNet: Camera Pose Regression via a 1D-Up Approach to Conformal Geometric Algebra [[arXiv 2023](https://arxiv.org/pdf/2302.05211.pdf)] [[]()]
 
+   * Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation [[arXiv 2023](https://arxiv.org/pdf/2304.13201.pdf)] [[]()]
+
 ---
 ## Datasets
    * [HPatches](https://github.com/hpatches/hpatches-dataset)
