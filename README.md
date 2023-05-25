@@ -138,8 +138,9 @@ A personal list of papers and resources for image matching and pose estimation, 
  
  * Searching from Area to Point: A Hierarchical Framework for Semantic-Geometric Combined Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2305.00194.pdf)] [[]()]
 
+ * Adaptive Assignment for Geometry Aware Local Feature Matching [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Adaptive_Assignment_for_Geometry_Aware_Local_Feature_Matching_CVPR_2023_paper.pdf)] [[AdaMatcher](https://github.com/TencentYoutuResearch/AdaMatcher)]
 
----
+
 ## Dense
 
    * Dgc-net: Dense geometric correspondence network [[WACV 2019](https://arxiv.org/pdf/1810.08393.pdf)] [[DGC-Net](https://github.com/AaltoVision/DGC-Net)]
