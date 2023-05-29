@@ -153,7 +153,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * Learning accurate dense correspondences and when to trust them [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Truong_Learning_Accurate_Dense_Correspondences_and_When_To_Trust_Them_CVPR_2021_paper.pdf)] [[PDCNet](https://github.com/PruneTruong/PDCNet)]
 
-   * Pdc-net+: Enhanced probabilistic dense correspondence network [[arxiv 2021](https://arxiv.org/pdf/2109.13912.pdf)] [[DenseMatching](https://github.com/PruneTruong/DenseMatching)]
+   * Pdc-net+: Enhanced probabilistic dense correspondence network [[arXiv 2021](https://arxiv.org/pdf/2109.13912.pdf)] [[DenseMatching](https://github.com/PruneTruong/DenseMatching)]
 
    * COTR: Correspondence Transformer for Matching Across Images [[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_COTR_Correspondence_Transformer_for_Matching_Across_Images_ICCV_2021_paper.pdf)] [[COTR](https://github.com/ubc-vision/COTR)]
 
@@ -164,6 +164,9 @@ A personal list of papers and resources for image matching and pose estimation, 
    * DKM: Dense Kernelized Feature Matching for Geometry Estimation [[CVPR 2023](https://arxiv.org/pdf/2202.00667.pdf)] [[DKM](https://github.com/Parskatt/DKM)]
 
    * PMatch: Paired Masked Image Modeling for Dense Geometric Matching [[CVPR 2023](https://arxiv.org/pdf/2303.17342.pdf)] [[PMatch](https://github.com/ShngJZ/PMatch)]
+
+   * RoMa: Revisiting Robust Losses for Dense Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2305.15404.pdf)] [[RoMa](https://github.com/Parskatt/RoMa)]
+
 
 ---
 ## Pose estimation and others
