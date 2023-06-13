@@ -91,7 +91,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * AMatFormer: Efficient Feature Matching via Anchor Matching Transformer [[TMM 2023](https://arxiv.org/pdf/2305.19205.pdf)] [[]()]
 
-   * SphereGlue: Learning Keypoint Matching on High Resolution Spherical Images [[CVPRW 2023](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Gava_SphereGlue_Learning_Keypoint_Matching_on_High_Resolution_Spherical_Images_CVPRW_2023_paper.pdf)] [[]()]
+   * :globe_with_meridians: SphereGlue: Learning Keypoint Matching on High Resolution Spherical Images [[CVPRW 2023](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Gava_SphereGlue_Learning_Keypoint_Matching_on_High_Resolution_Spherical_Images_CVPRW_2023_paper.pdf)] [[]()]
 
 ---
 ## Semi-dense
