@@ -64,6 +64,8 @@ A personal list of papers and resources for image matching and pose estimation, 
   * FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network [[CVPR 2023](https://arxiv.org/pdf/2211.15069.pdf)] [[FeatureBooster](https://github.com/SJTU-ViSYS/FeatureBooster)]
 
   * SFD2: Semantic-guided Feature Detection and Description [[arXiv 2023](https://arxiv.org/pdf/2304.14845.pdf)] [[sfd2](https://github.com/feixue94/sfd2)]
+
+  * :globe_with_meridians: PanoPoint: Self-Supervised Feature Points Detection and Description for 360° Panorama [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Zhang_PanoPoint_Self-Supervised_Feature_Points_Detection_and_Description_for_360deg_Panorama_CVPRW_2023_paper.pdf)] [[]()]
   
 ### Feature matching
 #### Filter
@@ -84,6 +86,8 @@ A personal list of papers and resources for image matching and pose estimation, 
    * Learning to Match Features with Seeded Graph Matching Network [[ICCV 2021](https://arxiv.org/pdf/2108.08771.pdf)] [[SGMNet](https://github.com/vdvchen/SGMNet)]
 
    * ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_ClusterGNN_Cluster-Based_Coarse-To-Fine_Graph_Neural_Network_for_Efficient_Feature_Matching_CVPR_2022_paper.pdf)] [[]()]
+
+   * AMatFormer: Efficient Feature Matching via Anchor Matching Transformer [[TMM 2023](https://arxiv.org/pdf/2305.19205.pdf)] [[]()]
 
 ---
 ## Semi-dense
