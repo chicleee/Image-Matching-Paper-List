@@ -79,6 +79,8 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * PGFNet: Preference-Guided Filtering Network for Two-View Correspondence Learning [[TIP 2023](https://ieeexplore.ieee.org/document/10041834)] [[PGFNet](https://github.com/guobaoxiao/PGFNet)]
 
+   * Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation [[arXiv 2023](https://arxiv.org/pdf/2305.17463.pdf)] [[]()]
+
 
 #### Matcher
    * SuperGlue: Learning Feature Matching with Graph Neural Networks [[CVPR 2020](https://arxiv.org/pdf/1911.11763.pdf)] [[SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork)]
