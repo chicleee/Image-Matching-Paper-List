@@ -93,6 +93,8 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * :globe_with_meridians: SphereGlue: Learning Keypoint Matching on High Resolution Spherical Images [[CVPRW 2023](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Gava_SphereGlue_Learning_Keypoint_Matching_on_High_Resolution_Spherical_Images_CVPRW_2023_paper.pdf)] [[]()]
 
+   * LightGlue: Local Feature Matching at Light Speed [[arXiv 2023](https://arxiv.org/pdf/2306.13643v1.pdf)] [[LightGlue](https://github.com/cvg/LightGlue)]
+
 ---
 ## Semi-dense
 
