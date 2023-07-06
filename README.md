@@ -150,7 +150,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
  * Adaptive Assignment for Geometry Aware Local Feature Matching [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Adaptive_Assignment_for_Geometry_Aware_Local_Feature_Matching_CVPR_2023_paper.pdf)] [[AdaMatcher](https://github.com/TencentYoutuResearch/AdaMatcher)]
 
-   * TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2307.00485.pdf)] [[TopicFM](https://github.com/TruongKhang/TopicFM)]
+* TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2307.00485.pdf)] [[TopicFM](https://github.com/TruongKhang/TopicFM)]
    
 
 ## Dense
