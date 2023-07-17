@@ -95,6 +95,9 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * LightGlue: Local Feature Matching at Light Speed [[arXiv 2023](https://arxiv.org/pdf/2306.13643v1.pdf)] [[LightGlue](https://github.com/cvg/LightGlue)]
 
+   * ResMatch: Residual Attention Learning for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2307.05180.pdf)] [[ResMatch](https://github.com/ACuOoOoO/ResMatch)]
+
+
 ---
 ## Semi-dense
 
