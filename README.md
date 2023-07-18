@@ -97,6 +97,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * ResMatch: Residual Attention Learning for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2307.05180.pdf)] [[ResMatch](https://github.com/ACuOoOoO/ResMatch)]
 
+   * IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)] [[imp-release](https://github.com/feixue94/imp-release)]
 
 ---
 ## Semi-dense
