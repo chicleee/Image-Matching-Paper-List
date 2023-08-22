@@ -34,7 +34,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * D2-net: A trainable cnn for joint description and detection of local features [[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)] [[d2-net](https://github.com/mihaidusmanu/d2-net)]
 
-   * R2D2: Repeatable and Reliable Detector and Descriptor [[NeurIPS 2019](https://proceedings.neurips.cc/paper/2019/file/3198dfd0aef271d22f7bcddd6f12f5cb-Paper.pdf)] [[repo]()]
+   * R2D2: Repeatable and Reliable Detector and Descriptor [[NeurIPS 2019](https://proceedings.neurips.cc/paper/2019/file/3198dfd0aef271d22f7bcddd6f12f5cb-Paper.pdf)] [[r2d2](https://github.com/naver/r2d2)]
 
    * ASLFeat: Learning Local Features of Accurate Shape and Localization [[CVPR 2020](https://arxiv.org/pdf/2003.10071.pdf)] [[ASLFeat](https://github.com/lzx551402/ASLFeat)]
 
