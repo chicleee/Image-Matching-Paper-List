@@ -10,7 +10,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 - [Pose estimation and others](#pose-estimation-and-others)
 - [Datasets](#datasets)
 - [Challenges and workshops](#challenges-and-workshops)
-
+- [Resources](#resources)
 
 
 
@@ -66,7 +66,10 @@ A personal list of papers and resources for image matching and pose estimation, 
   * SFD2: Semantic-guided Feature Detection and Description [[arXiv 2023](https://arxiv.org/pdf/2304.14845.pdf)] [[sfd2](https://github.com/feixue94/sfd2)]
 
   * :globe_with_meridians: PanoPoint: Self-Supervised Feature Points Detection and Description for 360° Panorama [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Zhang_PanoPoint_Self-Supervised_Feature_Points_Detection_and_Description_for_360deg_Panorama_CVPRW_2023_paper.pdf)] [[]()]
+
   
+  * DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2308.08479.pdf)] [[DeDoDe](https://github.com/Parskatt/DeDoDe)]
+    
 ### Feature matching
 #### Filter
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
@@ -99,6 +102,7 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)] [[imp-release](https://github.com/feixue94/imp-release)]
 
+   * Scene-Aware Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2308.09949.pdf)] [[]()]
 ---
 ## Semi-dense
 
@@ -250,6 +254,10 @@ A personal list of papers and resources for image matching and pose estimation, 
    * [Image Matching Challenge 2019](https://image-matching-workshop.github.io/leaderboard/)
    * [Image Matching: Local Features and Beyond workshop at CVPR](https://image-matching-workshop.github.io/)
    * :globe_with_meridians: [Omnidirectional Computer Vision workshop at CVPR](https://sites.google.com/view/omnicv2022)
+
+---
+## Resources
+* [image-matching-webui](https://github.com/Vincentqyw/image-matching-webui)
 
 ---
 Format:
