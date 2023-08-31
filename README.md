@@ -67,9 +67,11 @@ A personal list of papers and resources for image matching and pose estimation, 
 
   * :globe_with_meridians: PanoPoint: Self-Supervised Feature Points Detection and Description for 360° Panorama [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Zhang_PanoPoint_Self-Supervised_Feature_Points_Detection_and_Description_for_360deg_Panorama_CVPRW_2023_paper.pdf)] [[]()]
 
-  
   * DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2308.08479.pdf)] [[DeDoDe](https://github.com/Parskatt/DeDoDe)]
     
+  * S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction [[arXiv 2023](https://arxiv.org/pdf/2308.14598.pdf)] [[]()]
+    
+
 ### Feature matching
 #### Filter
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
