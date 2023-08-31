@@ -53,9 +53,9 @@ A personal list of papers and resources for image matching and pose estimation, 
 
    * Robust feature matching via progressive smoothness consensus [[ISPRS 2023](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000229)] [[Robust-feature-matching-via-Progressive-Smoothness-Consensus](https://github.com/XiaYifan1999/Robust-feature-matching-via-Progressive-Smoothness-Consensus)]
   
-  * SiLK: Simple Learned Keypoints [[arXiv 2023](https://arxiv.org/pdf/2304.06194v1.pdf)] [[silk](https://github.com/facebookresearch/silk)]
+  * SiLK: Simple Learned Keypoints [[ICCV 2023](https://arxiv.org/pdf/2304.06194v1.pdf)] [[silk](https://github.com/facebookresearch/silk)]
   
-  * ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation [[arXiv 2023](https://arxiv.org/pdf/2304.03608.pdf)] [[ALIKED](https://github.com/Shiaoming/ALIKED)]
+  * ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation [[IEEE Trans Instrum Meas 2023](https://arxiv.org/pdf/2304.03608.pdf)] [[ALIKED](https://github.com/Shiaoming/ALIKED)]
 
   * MTLDesc: Looking Wider to Describe Better [[AAAI 2022](https://arxiv.org/pdf/2203.07003.pdf)] [[mtldesc](https://github.com/vignywang/mtldesc)]
 
