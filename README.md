@@ -1,5 +1,5 @@
 # Image-Matching-Paper-List
-A personal list of papers and resources for image matching and pose estimation, including perspective images and panoramas (marked with :globe_with_meridians:).
+A personal list of papers and resources for image matching, pose estimation and some other 3D reconstruction tasks, including perspective images and panoramas (marked with :globe_with_meridians:).
 
 ---
 - [Sparse matching (detector-based)](#sparse)
@@ -8,11 +8,12 @@ A personal list of papers and resources for image matching and pose estimation, 
 - [Semi-dense matching (detector-free)](#semi-dense)
 - [Dense matching](#dense)
 - [Pose estimation and others](#pose-estimation-and-others)
+- [Similar images disambiguate](#similar-images-disambiguate)
 - [Datasets](#datasets)
 - [Challenges and workshops](#challenges-and-workshops)
 - [Resources](#resources)
 
-
+Disambiguate Images of Similar Structures
 
 ---
 ## Sparse
@@ -239,6 +240,10 @@ A personal list of papers and resources for image matching and pose estimation, 
    * CGA-PoseNet: Camera Pose Regression via a 1D-Up Approach to Conformal Geometric Algebra [[arXiv 2023](https://arxiv.org/pdf/2302.05211.pdf)] [[]()]
 
    * :globe_with_meridians: Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation [[arXiv 2023](https://arxiv.org/pdf/2304.13201.pdf)] [[]()]
+
+---
+## Similar images disambiguate
+   * Doppelgangers: Learning to Disambiguate Images of Similar Structures [[ICCV 2023](https://arxiv.org/pdf/2309.02420.pdf)] [[Doppelgangers](https://github.com/RuojinCai/Doppelgangers)]
 
 ---
 ## Datasets
