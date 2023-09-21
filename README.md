@@ -149,9 +149,9 @@ Disambiguate Images of Similar Structures
    
    * Structured Epipolar Matcher for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16646.pdf)] [[]()]
 
-   * Adaptive Spot-Guided Transformer for Consistent Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16624.pdf)] [[astr](https://astr2023.github.io/)]
+   * Adaptive Spot-Guided Transformer for Consistent Local Feature Matching [[CVPR 2023](https://arxiv.org/pdf/2303.16624.pdf)] [[astr](https://astr2023.github.io/)]
    
-   * GlueStick: Robust Image Matching by Sticking Points and Lines Together [[arXiv 2023](https://arxiv.org/pdf/2304.02008v1.pdf)] [[GlueStick](https://github.com/cvg/GlueStick)]
+   * GlueStick: Robust Image Matching by Sticking Points and Lines Together [[ICCV 2023](https://arxiv.org/pdf/2304.02008v1.pdf)] [[GlueStick](https://github.com/cvg/GlueStick)]
    
    * E3CM: Epipolar-Constrained Cascade Correspondence Matching [[ssrn](https://deliverypdf.ssrn.com/delivery.php?ID=466101127096068115002104021110028109028027010042065026093047035108019046034025018076127124085118082122091102017004101067070000026084031074101107098016015007037090116038089124089041109039116122125126054094010014019119091093096019011031074029016031100089074070066098000006105073022119064086107&EXT=pdf&INDEX=TRUE)] [[]()]
 
