@@ -141,7 +141,7 @@ Disambiguate Images of Similar Structures
    
    * OAMatcher: An Overlapping Areas-based Network for Accurate Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2302.05846.pdf)] [[OAMatcher](https://github.com/DK-HU/OAMatcher)]
 
-   * PATS: Patch Area Transportation with Subdivision for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.07700.pdf)] [[]()]
+   * PATS: Patch Area Transportation with Subdivision for Local Feature Matching [[CVPR 2023](https://arxiv.org/pdf/2303.07700.pdf)] [[pats](https://github.com/zju3dv/pats)]
    
    * PA-LoFTR: Local Feature Matching with 3D Position-Aware Transformer [[arXiv 2023](https://openreview.net/pdf?id=U8MtHLRK06q)] [[]()]
    
