@@ -165,6 +165,8 @@ Disambiguate Images of Similar Structures
 
 * TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2308.15144.pdf)] [[TKwinFormer](https://github.com/LiaoYun0x0/TKwinFormer)]
    
+* Occ2Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions [[ICCV 2023](https://arxiv.org/pdf/2308.16160.pdf)] [[]()]
+
 
 ## Dense
 
