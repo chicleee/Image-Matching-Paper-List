@@ -223,7 +223,7 @@ Disambiguate Images of Similar Structures
 
    * The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs [[3DV 2022](https://crockwell.github.io/rel_pose/data/paper.pdf)] [[rel_pose](https://github.com/crockwell/rel_pose)]
 
-   * End2End Multi-View Feature Matching using Differentiable Pose Optimization [[arXiv 2022](https://arxiv.org/pdf/2205.01694.pdf)] [[]()]
+   * End2End Multi-View Feature Matching with Differentiable Pose Optimization [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Roessle_End2End_Multi-View_Feature_Matching_with_Differentiable_Pose_Optimization_ICCV_2023_paper.pdf)] [[e2e_multi_view_matching](https://github.com/barbararoessle/e2e_multi_view_matching)]
 
    * :globe_with_meridians: CoVisPose: Co-visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360  Indoor Panoramas [[ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)] [[]()]
 
