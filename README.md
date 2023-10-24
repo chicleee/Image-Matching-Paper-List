@@ -40,6 +40,8 @@ Disambiguate Images of Similar Structures
    * ASLFeat: Learning Local Features of Accurate Shape and Localization [[CVPR 2020](https://arxiv.org/pdf/2003.10071.pdf)] [[ASLFeat](https://github.com/lzx551402/ASLFeat)]
 
    * DISK: Learning local features with policy gradient [[NeurIPS 2020](https://arxiv.org/pdf/2006.13566.pdf)] [[disk](https://github.com/cvlab-epfl/disk)]
+   
+   * Online Invariance Selection for Local Feature Descriptors [[ECCV 2020](https://arxiv.org/pdf/2007.08988.pdf)] [[LISRD](https://github.com/rpautrat/LISRD)]
 
    * Co-attention for conditioned image matching
     [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Wiles_Co-Attention_for_Conditioned_Image_Matching_CVPR_2021_paper.pdf)] [[coam](https://github.com/hyenal/coam)]
@@ -51,6 +53,8 @@ Disambiguate Images of Similar Structures
    * Decoupling Makes Weakly Supervised Local Feature Better [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Decoupling_Makes_Weakly_Supervised_Local_Feature_Better_CVPR_2022_paper.pdf)] [[PoSFeat](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)]
 
    * Shared Coupling-bridge for Weakly Supervised Local Feature Learning [[arXiv 2022](https://arxiv.org/pdf/2212.07047.pdf)] [[SCFeat](https://github.com/sunjiayuanro/SCFeat)]
+
+   * Self-Supervised Equivariant Learning for Oriented Keypoint Detection [[CVPR 2022](https://arxiv.org/pdf/2204.08613.pdf)] [[REKD](https://github.com/bluedream1121/REKD)]
 
    * Robust feature matching via progressive smoothness consensus [[ISPRS 2023](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000229)] [[Robust-feature-matching-via-Progressive-Smoothness-Consensus](https://github.com/XiaYifan1999/Robust-feature-matching-via-Progressive-Smoothness-Consensus)]
   
@@ -71,7 +75,8 @@ Disambiguate Images of Similar Structures
   * DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2308.08479.pdf)] [[DeDoDe](https://github.com/Parskatt/DeDoDe)]
     
   * S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction [[arXiv 2023](https://arxiv.org/pdf/2308.14598.pdf)] [[]()]
-    
+
+  * DarkFeat: Noise-Robust Feature Detector and Descriptor for Extremely Low-Light RAW Images [[AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25161)] [[DarkFeat](https://github.com/THU-LYJ-Lab/DarkFeat)]
 
 ### Feature matching
 #### Filter
@@ -83,9 +88,15 @@ Disambiguate Images of Similar Structures
  
    * ACNe: Attentive Context Normalization for Robust Permutation-Equivariant Learning [[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_ACNe_Attentive_Context_Normalization_for_Robust_Permutation-Equivariant_Learning_CVPR_2020_paper.pdf)] [[acne](https://github.com/vcg-uvic/acne)]
 
+   * Progressive Correspondence Pruning by Consensus Learning [[ICCV 2021](https://arxiv.org/pdf/2101.00591.pdf)] [[CLNet](https://github.com/sailor-z/CLNet)]
+
    * PGFNet: Preference-Guided Filtering Network for Two-View Correspondence Learning [[TIP 2023](https://ieeexplore.ieee.org/document/10041834)] [[PGFNet](https://github.com/guobaoxiao/PGFNet)]
 
    * Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation [[arXiv 2023](https://arxiv.org/pdf/2305.17463.pdf)] [[]()]
+
+   * ConvMatch: Rethinking Network Design for Two-View Correspondence Learning [[AAAI 2023](https://openreview.net/pdf?id=DnaHIVXRzmh)] [[ConvMatch](https://github.com/SuhZhang/ConvMatch)]
+
+   * Progressive Neighbor Consistency Mining for Correspondence Pruning [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Progressive_Neighbor_Consistency_Mining_for_Correspondence_Pruning_CVPR_2023_paper.pdf)] [[NCMNet](https://github.com/xinliu29/NCMNet)]
 
 
 #### Matcher
