@@ -178,6 +178,8 @@ Disambiguate Images of Similar Structures
    
 * Occ2Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions [[ICCV 2023](https://arxiv.org/pdf/2308.16160.pdf)] [[]()]
 
+* FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer [[arXiv 2023](https://arxiv.org/pdf/2310.13605.pdf)] [[]()]
+
 
 ## Dense
 
@@ -204,6 +206,8 @@ Disambiguate Images of Similar Structures
    * PMatch: Paired Masked Image Modeling for Dense Geometric Matching [[CVPR 2023](https://arxiv.org/pdf/2303.17342.pdf)] [[PMatch](https://github.com/ShngJZ/PMatch)]
 
    * RoMa: Revisiting Robust Losses for Dense Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2305.15404.pdf)] [[RoMa](https://github.com/Parskatt/RoMa)]
+
+   * RGM: A Robust Generalist Matching Model [[arXiv 2023](https://arxiv.org/pdf/2310.11755.pdf)] [[RGM](https://github.com/aim-uofa/RGM)]
 
 
 ---
