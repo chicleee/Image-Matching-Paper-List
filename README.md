@@ -78,6 +78,9 @@ Disambiguate Images of Similar Structures
 
   * DarkFeat: Noise-Robust Feature Detector and Descriptor for Extremely Low-Light RAW Images [[AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25161)] [[DarkFeat](https://github.com/THU-LYJ-Lab/DarkFeat)]
 
+   * Steerers: A framework for rotation equivariant keypoint descriptors [[arXiv 2023](https://arxiv.org/pdf/2312.02152.pdf)] [[rotation-steerers](https://github.com/georg-bn/rotation-steerers)]
+
+   * 
 ### Feature matching
 #### Filter
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
@@ -179,6 +182,8 @@ Disambiguate Images of Similar Structures
 * Occ2Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions [[ICCV 2023](https://arxiv.org/pdf/2308.16160.pdf)] [[]()]
 
 * FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer [[arXiv 2023](https://arxiv.org/pdf/2310.13605.pdf)] [[]()]
+
+* SAM-Net: Self-Attention based Feature Matching with Spatial transformers and Knowledge Distillation [[ESWA 2023](https://www.sciencedirect.com/science/article/abs/pii/S0957417423033067#fn1)] [[SAM-Net](https://github.com/benjaminkelenyi/SAM-Net)]
 
 
 ## Dense
