@@ -161,7 +161,7 @@ Disambiguate Images of Similar Structures
    
    * Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints [[arXiv 2023](https://arxiv.org/pdf/2303.02885.pdf)] [[]()]
    
-   * Structured Epipolar Matcher for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.16646.pdf)] [[]()]
+   * Structured Epipolar Matcher for Local Feature Matching [[CVPR 2023](https://arxiv.org/pdf/2303.16646.pdf)] [[SEM](https://github.com/SEM2023/SEM)]
 
    * Adaptive Spot-Guided Transformer for Consistent Local Feature Matching [[CVPR 2023](https://arxiv.org/pdf/2303.16624.pdf)] [[astr](https://astr2023.github.io/)]
    
