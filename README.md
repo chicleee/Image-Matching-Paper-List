@@ -2,6 +2,7 @@
 A personal list of papers and resources for image matching, pose estimation and some other 3D reconstruction tasks, including perspective images and panoramas (marked with :globe_with_meridians:).
 
 ---
+- [Survey](#survey)
 - [Sparse matching (detector-based)](#sparse)
    - [Keypoints and descriptors](#keypoints-and-descriptors)
    - [Feature matching](#feature-matching)
@@ -11,11 +12,14 @@ A personal list of papers and resources for image matching, pose estimation and 
 - [Similar images disambiguate](#similar-images-disambiguate)
 - [Datasets](#datasets)
 - [Challenges and workshops](#challenges-and-workshops)
-- [Resources](#resources)
+- [Resources  and toolboxes](#resources-and-toolboxes)
 
 Disambiguate Images of Similar Structures
 
 ---
+## Survey
+   * Local Feature Matching Using Deep Learning: A Survey [[arXiv 2024](https://arxiv.org/pdf/2401.17592.pdf)] [[]()]
+
 ## Sparse
 ### Keypoints and descriptors
    * ORB: An efficient alternative to SIFT or SURF [[ICCV 2011](http://www.evreninsirlari.net/dosyalar/145_s14_01.pdf)] [[]()]
@@ -80,7 +84,6 @@ Disambiguate Images of Similar Structures
 
    * Steerers: A framework for rotation equivariant keypoint descriptors [[arXiv 2023](https://arxiv.org/pdf/2312.02152.pdf)] [[rotation-steerers](https://github.com/georg-bn/rotation-steerers)]
 
-   * 
 ### Feature matching
 #### Filter
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
@@ -120,6 +123,8 @@ Disambiguate Images of Similar Structures
    * IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)] [[imp-release](https://github.com/feixue94/imp-release)]
 
    * Scene-Aware Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2308.09949.pdf)] [[]()]
+
+   * MESA: Matching Everything by Segmenting Anything [[arXiv 2024](https://arxiv.org/pdf/2401.16741.pdf)] [[]()]
 ---
 ## Semi-dense
 
@@ -287,8 +292,10 @@ Disambiguate Images of Similar Structures
    * :globe_with_meridians: [Omnidirectional Computer Vision workshop at CVPR](https://sites.google.com/view/omnicv2022)
 
 ---
-## Resources
-* [image-matching-webui](https://github.com/Vincentqyw/image-matching-webui)
+## Resources and toolboxes
+   * [image-matching-webui](https://github.com/Vincentqyw/image-matching-webui)
+  
+   * [deep-image-matching](https://github.com/3DOM-FBK/deep-image-matching)
 
 ---
 Format:
