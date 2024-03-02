@@ -110,6 +110,8 @@ Disambiguate Images of Similar Structures
 
    * Learning to Match Features with Seeded Graph Matching Network [[ICCV 2021](https://arxiv.org/pdf/2108.08771.pdf)] [[SGMNet](https://github.com/vdvchen/SGMNet)]
 
+   * HTMatch: An efficient Hybrid Transformer based Graph Neural Network for Local Feature Matching [[Signal Processing 2023](https://www.sciencedirect.com/science/article/abs/pii/S016516842200398X)] [[]()]
+     
    * ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_ClusterGNN_Cluster-Based_Coarse-To-Fine_Graph_Neural_Network_for_Efficient_Feature_Matching_CVPR_2022_paper.pdf)] [[]()]
 
    * AMatFormer: Efficient Feature Matching via Anchor Matching Transformer [[TMM 2023](https://arxiv.org/pdf/2305.19205.pdf)] [[]()]
@@ -119,6 +121,8 @@ Disambiguate Images of Similar Structures
    * LightGlue: Local Feature Matching at Light Speed [[ICCV 2023](https://arxiv.org/pdf/2306.13643v1.pdf)] [[LightGlue](https://github.com/cvg/LightGlue)]
 
    * ResMatch: Residual Attention Learning for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2307.05180.pdf)] [[ResMatch](https://github.com/ACuOoOoO/ResMatch)]
+
+   * Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network [[arXiv 2023](https://arxiv.org/pdf/2307.01447.pdf)] [[]()]
 
    * IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)] [[imp-release](https://github.com/feixue94/imp-release)]
 
