@@ -110,10 +110,14 @@ Disambiguate Images of Similar Structures
 
    * Learning to Match Features with Seeded Graph Matching Network [[ICCV 2021](https://arxiv.org/pdf/2108.08771.pdf)] [[SGMNet](https://github.com/vdvchen/SGMNet)]
 
+   * NCTR: Neighborhood Consensus Transformer for Feature Matching [[ICIP 2022](https://ieeexplore.ieee.org/abstract/document/9897245)] [[NCTR](https://github.com/leolu1999/NCTR)]   
+   
    * HTMatch: An efficient Hybrid Transformer based Graph Neural Network for Local Feature Matching [[Signal Processing 2023](https://www.sciencedirect.com/science/article/abs/pii/S016516842200398X)] [[]()]
      
    * ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_ClusterGNN_Cluster-Based_Coarse-To-Fine_Graph_Neural_Network_for_Efficient_Feature_Matching_CVPR_2022_paper.pdf)] [[]()]
 
+   * ParaFormer: Parallel Attention Transformer for Efficient Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2303.00941.pdf)] [[]()]
+    
    * AMatFormer: Efficient Feature Matching via Anchor Matching Transformer [[TMM 2023](https://arxiv.org/pdf/2305.19205.pdf)] [[]()]
 
    * :globe_with_meridians: SphereGlue: Learning Keypoint Matching on High Resolution Spherical Images [[CVPRW 2023](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Gava_SphereGlue_Learning_Keypoint_Matching_on_High_Resolution_Spherical_Images_CVPRW_2023_paper.pdf)] [[SphereGlue](https://github.com/vishalsharbidar/SphereGlue)]
@@ -126,7 +130,7 @@ Disambiguate Images of Similar Structures
 
    * IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)] [[imp-release](https://github.com/feixue94/imp-release)]
 
-   * Scene-Aware Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2308.09949.pdf)] [[]()]
+   * Scene-Aware Feature Matching [[ICCV_2023](https://arxiv.org/pdf/2308.09949.pdf)] [[]()]
 
    * MESA: Matching Everything by Segmenting Anything [[arXiv 2024](https://arxiv.org/pdf/2401.16741.pdf)] [[]()]
 ---
