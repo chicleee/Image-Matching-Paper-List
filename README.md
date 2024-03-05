@@ -8,6 +8,7 @@ A personal list of papers and resources for image matching, pose estimation and 
    - [Feature matching](#feature-matching)
 - [Semi-dense matching (detector-free)](#semi-dense)
 - [Dense matching](#dense)
+- [Training framework](#training-framework)
 - [Pose estimation and others](#pose-estimation-and-others)
 - [Similar images disambiguate](#similar-images-disambiguate)
 - [Datasets](#datasets)
