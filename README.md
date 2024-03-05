@@ -198,7 +198,9 @@ Disambiguate Images of Similar Structures
 
 * SAM-Net: Self-Attention based Feature Matching with Spatial transformers and Knowledge Distillation [[ESWA 2023](https://www.sciencedirect.com/science/article/abs/pii/S0957417423033067#fn1)] [[SAM-Net](https://github.com/benjaminkelenyi/SAM-Net)]
 
+* Are Semi-Dense Detector-Free Methods Good at Matching Local Features ? [[arXiv 2024](https://arxiv.org/pdf/2402.08671.pdf)] [[]()]
 
+  
 ## Dense
 
    * Dgc-net: Dense geometric correspondence network [[WACV 2019](https://arxiv.org/pdf/1810.08393.pdf)] [[DGC-Net](https://github.com/AaltoVision/DGC-Net)]
@@ -227,6 +229,10 @@ Disambiguate Images of Similar Structures
 
    * RGM: A Robust Generalist Matching Model [[arXiv 2023](https://arxiv.org/pdf/2310.11755.pdf)] [[RGM](https://github.com/aim-uofa/RGM)]
 
+---
+## Training framework
+
+   * GIM: Learning Generalizable Image Matcher From Internet Videos [[ICLR 2024](https://arxiv.org/pdf/2402.11095.pdf)] [[gim](https://github.com/xuelunshen/gim)]
 
 ---
 ## Pose estimation and others
