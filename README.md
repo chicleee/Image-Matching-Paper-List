@@ -201,6 +201,7 @@ Disambiguate Images of Similar Structures
 
 * Are Semi-Dense Detector-Free Methods Good at Matching Local Features ? [[arXiv 2024](https://arxiv.org/pdf/2402.08671.pdf)] [[]()]
 
+* Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed [[CVPR 2024](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)] [[efficientloftr](https://github.com/zju3dv/efficientloftr)]
   
 ## Dense
 
