@@ -20,6 +20,8 @@ Disambiguate Images of Similar Structures
 ---
 ## Survey
    * Local Feature Matching Using Deep Learning: A Survey [[arXiv 2024](https://arxiv.org/pdf/2401.17592.pdf)] [[]()]
+     
+   * Local feature matching from detector-based to detector-free: a survey [[Applied Intelligence 2024](https://link.springer.com/article/10.1007/s10489-024-05330-3)] [[]()]  ()
 
 ## Sparse
 ### Keypoints and descriptors
@@ -36,7 +38,6 @@ Disambiguate Images of Similar Structures
    * SuperPoint: Self-Supervised Interest Point Detection and Description [[CVPRW 2018](https://arxiv.org/pdf/1712.07629.pdf)] [[SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork)]
    
    * Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters [[ICCV 2019](https://arxiv.org/pdf/1904.00889.pdf)] [[Key.Net-Pytorch](https://github.com/axelBarroso/Key.Net-Pytorch)]
-
 
    * D2-net: A trainable cnn for joint description and detection of local features [[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)] [[d2-net](https://github.com/mihaidusmanu/d2-net)]
 
@@ -61,6 +62,8 @@ Disambiguate Images of Similar Structures
 
    * Self-Supervised Equivariant Learning for Oriented Keypoint Detection [[CVPR 2022](https://arxiv.org/pdf/2204.08613.pdf)] [[REKD](https://github.com/bluedream1121/REKD)]
 
+   * Image Matching and Localization Based on Fusion of Handcrafted and Deep Features [[IEEE Sensors Journal 2023](https://ieeexplore.ieee.org/document/10225672)] [[DeFusion](https://github.com/songxf1024/DeFusion)]
+        
    * Robust feature matching via progressive smoothness consensus [[ISPRS 2023](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000229)] [[Robust-feature-matching-via-Progressive-Smoothness-Consensus](https://github.com/XiaYifan1999/Robust-feature-matching-via-Progressive-Smoothness-Consensus)]
   
   * SiLK: Simple Learned Keypoints [[ICCV 2023](https://arxiv.org/pdf/2304.06194v1.pdf)] [[silk](https://github.com/facebookresearch/silk)]
@@ -77,13 +80,15 @@ Disambiguate Images of Similar Structures
 
   * :globe_with_meridians: PanoPoint: Self-Supervised Feature Points Detection and Description for 360° Panorama [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Zhang_PanoPoint_Self-Supervised_Feature_Points_Detection_and_Description_for_360deg_Panorama_CVPRW_2023_paper.pdf)] [[]()]
 
-  * DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2308.08479.pdf)] [[DeDoDe](https://github.com/Parskatt/DeDoDe)]
+  * DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching [[3DV 2024](https://arxiv.org/pdf/2308.08479.pdf)] [[DeDoDe](https://github.com/Parskatt/DeDoDe)]
     
-  * S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction [[arXiv 2023](https://arxiv.org/pdf/2308.14598.pdf)] [[]()]
+  * S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction [[ICCV 2023](https://arxiv.org/pdf/2308.14598.pdf)] [[]()]
 
   * DarkFeat: Noise-Robust Feature Detector and Descriptor for Extremely Low-Light RAW Images [[AAAI 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25161)] [[DarkFeat](https://github.com/THU-LYJ-Lab/DarkFeat)]
 
    * Steerers: A framework for rotation equivariant keypoint descriptors [[arXiv 2023](https://arxiv.org/pdf/2312.02152.pdf)] [[rotation-steerers](https://github.com/georg-bn/rotation-steerers)]
+
+  * NeRF-Supervised Feature Point Detection and Description [[arXiv 2024](https://arxiv.org/html/2403.08156v1)] [[]()]
 
 ### Feature matching
 #### Filter
@@ -104,8 +109,11 @@ Disambiguate Images of Similar Structures
    * ConvMatch: Rethinking Network Design for Two-View Correspondence Learning [[AAAI 2023](https://openreview.net/pdf?id=DnaHIVXRzmh)] [[ConvMatch](https://github.com/SuhZhang/ConvMatch)]
 
    * Progressive Neighbor Consistency Mining for Correspondence Pruning [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Progressive_Neighbor_Consistency_Mining_for_Correspondence_Pruning_CVPR_2023_paper.pdf)] [[NCMNet](https://github.com/xinliu29/NCMNet)]
+   
+   * A more reliable local-global-guided network for correspondence pruning [[Pattern Recognition Letters 2024](https://www.sciencedirect.com/science/article/abs/pii/S0167865524000746)] [[LG-Net](https://github.com/qiwenjjin/LG-Net)]
 
-
+  * MESA: Matching Everything by Segmenting Anything [[arXiv 2024](https://arxiv.org/pdf/2401.16741.pdf)] [[]()]
+    
 #### Matcher
    * SuperGlue: Learning Feature Matching with Graph Neural Networks [[CVPR 2020](https://arxiv.org/pdf/1911.11763.pdf)] [[SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork)]
 
@@ -125,7 +133,9 @@ Disambiguate Images of Similar Structures
 
    * LightGlue: Local Feature Matching at Light Speed [[ICCV 2023](https://arxiv.org/pdf/2306.13643v1.pdf)] [[LightGlue](https://github.com/cvg/LightGlue)]
 
-   * ResMatch: Residual Attention Learning for Local Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2307.05180.pdf)] [[ResMatch](https://github.com/ACuOoOoO/ResMatch)]
+   * ResMatch: Residual Attention Learning for Local Feature Matching [[AAAI 2024](https://arxiv.org/pdf/2307.05180.pdf)] [[ResMatch](https://github.com/ACuOoOoO/ResMatch)]
+
+   * SDGMNet: Statistic-based Dynamic Gradient Modulation for Local Descriptor Learning [[AAAI 2024](https://arxiv.org/pdf/2106.04434.pdf)] [[SDGMNet](https://github.com/ACuOoOoO/SDGMNet)]
 
    * Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network [[arXiv 2023](https://arxiv.org/pdf/2307.01447.pdf)] [[]()]
 
@@ -133,7 +143,8 @@ Disambiguate Images of Similar Structures
 
    * Scene-Aware Feature Matching [[ICCV_2023](https://arxiv.org/pdf/2308.09949.pdf)] [[]()]
 
-   * MESA: Matching Everything by Segmenting Anything [[arXiv 2024](https://arxiv.org/pdf/2401.16741.pdf)] [[]()]
+   * DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks [[arXiv 2024](https://arxiv.org/pdf/2403.11370.pdf)] [[]()]
+
 ---
 ## Semi-dense
 
@@ -200,8 +211,11 @@ Disambiguate Images of Similar Structures
 * SAM-Net: Self-Attention based Feature Matching with Spatial transformers and Knowledge Distillation [[ESWA 2023](https://www.sciencedirect.com/science/article/abs/pii/S0957417423033067#fn1)] [[SAM-Net](https://github.com/benjaminkelenyi/SAM-Net)]
 
 * Are Semi-Dense Detector-Free Methods Good at Matching Local Features ? [[arXiv 2024](https://arxiv.org/pdf/2402.08671.pdf)] [[]()]
-
+  
 * Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed [[CVPR 2024](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)] [[efficientloftr](https://github.com/zju3dv/efficientloftr)]
+
+* HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching [[arXiv 2024](https://arxiv.org/html/2403.12543v1)] [[]()]
+
   
 ## Dense
 
@@ -215,7 +229,7 @@ Disambiguate Images of Similar Structures
 
    * Learning accurate dense correspondences and when to trust them [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Truong_Learning_Accurate_Dense_Correspondences_and_When_To_Trust_Them_CVPR_2021_paper.pdf)] [[PDCNet](https://github.com/PruneTruong/PDCNet)]
 
-   * Pdc-net+: Enhanced probabilistic dense correspondence network [[arXiv 2021](https://arxiv.org/pdf/2109.13912.pdf)] [[DenseMatching](https://github.com/PruneTruong/DenseMatching)]
+   * Pdc-net+: Enhanced probabilistic dense correspondence network [[TPAMI 2023](https://arxiv.org/pdf/2109.13912.pdf)] [[DenseMatching](https://github.com/PruneTruong/DenseMatching)]
 
    * COTR: Correspondence Transformer for Matching Across Images [[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_COTR_Correspondence_Transformer_for_Matching_Across_Images_ICCV_2021_paper.pdf)] [[COTR](https://github.com/ubc-vision/COTR)]
 
@@ -227,7 +241,7 @@ Disambiguate Images of Similar Structures
 
    * PMatch: Paired Masked Image Modeling for Dense Geometric Matching [[CVPR 2023](https://arxiv.org/pdf/2303.17342.pdf)] [[PMatch](https://github.com/ShngJZ/PMatch)]
 
-   * RoMa: Revisiting Robust Losses for Dense Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2305.15404.pdf)] [[RoMa](https://github.com/Parskatt/RoMa)]
+   * RoMa: Revisiting Robust Losses for Dense Feature Matching [[CVPR 2024](https://arxiv.org/pdf/2305.15404.pdf)] [[RoMa](https://github.com/Parskatt/RoMa)]
 
    * RGM: A Robust Generalist Matching Model [[arXiv 2023](https://arxiv.org/pdf/2310.11755.pdf)] [[RGM](https://github.com/aim-uofa/RGM)]
 
@@ -258,6 +272,8 @@ Disambiguate Images of Similar Structures
    
    * Wide-Baseline Relative Camera Pose Estimation with Directional Learning [[CVPR 2021](https://arxiv.org/pdf/2106.03336.pdf)] [[DirectionNet](https://github.com/arthurchen0518/DirectionNet)]
 
+   * Learning single and multi-scene camera pose regression with transformer encoders [[Computer Vision and Image Understanding 2024](https://www.sciencedirect.com/science/article/abs/pii/S1077314224000638)] [[transposenet](https://github.com/yolish/transposenet)]
+
    * :globe_with_meridians: Robust 360-8PA: Redesigning The Normalized 8-point Algorithm for 360-FoV Images [[ICRA 2021](https://arxiv.org/pdf/2104.10900.pdf)] [[robust_360_8PA](https://github.com/EnriqueSolarte/robust_360_8PA)]
 
    * :globe_with_meridians: Pose Estimation for Two-View Panoramas: a Comparative Analysis [[CVPRW 2022](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Murrugarra-Llerena_Pose_Estimation_for_Two-View_Panoramas_Based_on_Keypoint_Matching_A_CVPRW_2022_paper.pdf)] [[Keypoints](https://github.com/Artcs1/Keypoints)]
@@ -283,6 +299,7 @@ Disambiguate Images of Similar Structures
    * CGA-PoseNet: Camera Pose Regression via a 1D-Up Approach to Conformal Geometric Algebra [[arXiv 2023](https://arxiv.org/pdf/2302.05211.pdf)] [[]()]
 
    * :globe_with_meridians: Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation [[arXiv 2023](https://arxiv.org/pdf/2304.13201.pdf)] [[]()]
+     
 
 ---
 ## Similar images disambiguate
@@ -299,6 +316,7 @@ Disambiguate Images of Similar Structures
 
 ---
 ## Challenges and workshops
+   * [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024)
    * [Image Matching Challenge 2023](https://www.kaggle.com/competitions/image-matching-challenge-2023)
    * [Image Matching Challenge 2022](https://www.kaggle.com/competitions/image-matching-challenge-2022/overview)
    * [Image Matching Challenge 2021](https://www.cs.ubc.ca/research/image-matching-challenge/current/)
