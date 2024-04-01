@@ -15,8 +15,6 @@ A personal list of papers and resources for image matching, pose estimation and 
 - [Challenges and workshops](#challenges-and-workshops)
 - [Resources  and toolboxes](#resources-and-toolboxes)
 
-Disambiguate Images of Similar Structures
-
 ---
 ## Survey
    * Local Feature Matching Using Deep Learning: A Survey [[arXiv 2024](https://arxiv.org/pdf/2401.17592.pdf)] [[]()]
