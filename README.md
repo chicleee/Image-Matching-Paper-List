@@ -311,6 +311,7 @@ A personal list of papers and resources for image matching, pose estimation and 
    * [ScanNet](http://www.scan-net.org/)
    * :globe_with_meridians: [Matterport3D](https://niessner.github.io/Matterport/)
    * :globe_with_meridians: [Zillow Indoor Dataset (ZInD)](https://github.com/zillow/zind)
+   * :globe_with_meridians: [SphereCraft: A Dataset for Spherical Keypoint Detection, Matching and Camera Pose Estimation](https://github.com/DFKI/spherecrafthub)
 
 ---
 ## Challenges and workshops
