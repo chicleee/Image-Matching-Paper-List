@@ -299,8 +299,9 @@ A personal list of papers and resources for image matching, pose estimation and 
    * CGA-PoseNet: Camera Pose Regression via a 1D-Up Approach to Conformal Geometric Algebra [[arXiv 2023](https://arxiv.org/pdf/2302.05211.pdf)] [[]()]
 
    * :globe_with_meridians: Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation [[arXiv 2023](https://arxiv.org/pdf/2304.13201.pdf)] [[]()]
-     
-    * Map-Relative Pose Regression for Visual Re-Localization [[CVPR 2024](https://arxiv.org/pdf/2404.09884.pdf)] [[https://github.com/nianticlabs/marepo](marepo)]
+
+   * Map-Relative Pose Regression for Visual Re-Localization [[CVPR 2024](https://arxiv.org/pdf/2404.09884.pdf)] [[marepo](https://github.com/nianticlabs/marepo)]
+
 ---
 ## Similar images disambiguate
    * Doppelgangers: Learning to Disambiguate Images of Similar Structures [[ICCV 2023](https://arxiv.org/pdf/2309.02420.pdf)] [[Doppelgangers](https://github.com/RuojinCai/Doppelgangers)]
