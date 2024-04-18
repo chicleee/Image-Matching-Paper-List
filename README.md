@@ -87,6 +87,8 @@ A personal list of papers and resources for image matching, pose estimation and 
    * Steerers: A framework for rotation equivariant keypoint descriptors [[arXiv 2023](https://arxiv.org/pdf/2312.02152.pdf)] [[rotation-steerers](https://github.com/georg-bn/rotation-steerers)]
 
   * NeRF-Supervised Feature Point Detection and Description [[arXiv 2024](https://arxiv.org/html/2403.08156v1)] [[]()]
+  
+  * DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector [[CVPRW 2024](https://arxiv.org/pdf/2404.08928.pdf)] [[DeDoDe](https://github.com/Parskatt/DeDoDe)]
 
 ### Feature matching
 #### Filter
@@ -298,7 +300,7 @@ A personal list of papers and resources for image matching, pose estimation and 
 
    * :globe_with_meridians: Graph-CoVis: GNN-based Multi-view Panorama Global Pose Estimation [[arXiv 2023](https://arxiv.org/pdf/2304.13201.pdf)] [[]()]
      
-
+    * Map-Relative Pose Regression for Visual Re-Localization [[CVPR 2024](https://arxiv.org/pdf/2404.09884.pdf)] [[https://github.com/nianticlabs/marepo](marepo)]
 ---
 ## Similar images disambiguate
    * Doppelgangers: Learning to Disambiguate Images of Similar Structures [[ICCV 2023](https://arxiv.org/pdf/2309.02420.pdf)] [[Doppelgangers](https://github.com/RuojinCai/Doppelgangers)]
