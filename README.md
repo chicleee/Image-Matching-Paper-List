@@ -76,7 +76,7 @@ A personal list of papers and resources for image matching, pose estimation and 
 
   * SFD2: Semantic-guided Feature Detection and Description [[arXiv 2023](https://arxiv.org/pdf/2304.14845.pdf)] [[sfd2](https://github.com/feixue94/sfd2)]
 
-  * :globe_with_meridians: PanoPoint: Self-Supervised Feature Points Detection and Description for 360° Panorama [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Zhang_PanoPoint_Self-Supervised_Feature_Points_Detection_and_Description_for_360deg_Panorama_CVPRW_2023_paper.pdf)] [[]()]
+  * :globe_with_meridians: PanoPoint: Self-Supervised Feature Points Detection and Description for 360° Panorama [[CVPRW 2023](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Zhang_PanoPoint_Self-Supervised_Feature_Points_Detection_and_Description_for_360deg_Panorama_CVPRW_2023_paper.pdf)] [[]()]
 
   * DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching [[3DV 2024](https://arxiv.org/pdf/2308.08479.pdf)] [[DeDoDe](https://github.com/Parskatt/DeDoDe)]
     
@@ -89,7 +89,9 @@ A personal list of papers and resources for image matching, pose estimation and 
   * NeRF-Supervised Feature Point Detection and Description [[arXiv 2024](https://arxiv.org/html/2403.08156v1)] [[]()]
   
   * DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector [[CVPRW 2024](https://arxiv.org/pdf/2404.08928.pdf)] [[DeDoDe](https://github.com/Parskatt/DeDoDe)]
-
+    
+  * XFeat: Accelerated Features for Lightweight Image Matching [[CVPR 2024](https://arxiv.org/pdf/2404.19174)] [[accelerated_features](https://github.com/verlab/accelerated_features)]
+    
 ### Feature matching
 #### Filter
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
