@@ -147,6 +147,9 @@ A personal list of papers and resources for image matching, pose estimation and 
 
    * DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks [[arXiv 2024](https://arxiv.org/pdf/2403.11370.pdf)] [[]()]
 
+   * OmniGlue: Generalizable Feature Matching with Foundation Model Guidance [[CVPR 2024](https://arxiv.org/pdf/2405.12979)] [[omniglue](https://github.com/google-research/omniglue)]
+
+
 ---
 ## Semi-dense
 
