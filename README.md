@@ -115,6 +115,10 @@ A personal list of papers and resources for image matching, pose estimation and 
    * A more reliable local-global-guided network for correspondence pruning [[Pattern Recognition Letters 2024](https://www.sciencedirect.com/science/article/abs/pii/S0167865524000746)] [[LG-Net](https://github.com/qiwenjjin/LG-Net)]
 
   * MESA: Matching Everything by Segmenting Anything [[arXiv 2024](https://arxiv.org/pdf/2401.16741.pdf)] [[]()]
+
+  * FC-GNN: Recovering Reliable and Accurate Correspondences from Interferences [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_FC-GNN_Recovering_Reliable_and_Accurate_Correspondences_from_Interferences_CVPR_2024_paper.pdf)] [[fcgnn](https://github.com/xuy123456/fcgnn)]
+
+  * DeMatch: Deep Decomposition of Motion Field for Two-View Correspondence Learning [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DeMatch_Deep_Decomposition_of_Motion_Field_for_Two-View_Correspondence_Learning_CVPR_2024_paper.pdf)] [[DeMatch](https://github.com/SuhZhang/DeMatch)]
     
 #### Matcher
    * SuperGlue: Learning Feature Matching with Graph Neural Networks [[CVPR 2020](https://arxiv.org/pdf/1911.11763.pdf)] [[SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork)]
