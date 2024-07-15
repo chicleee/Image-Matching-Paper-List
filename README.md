@@ -226,6 +226,8 @@ A personal list of papers and resources for image matching, pose estimation and 
 * HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching [[arXiv 2024](https://arxiv.org/html/2403.12543v1)] [[]()]
 
 * Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching [[arXiv 2024](https://arxiv.org/pdf/2405.13874)] [[]()]
+
+* Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching [[ECCV 2024](https://arxiv.org/html/2407.07789v1)] [[]()]
   
 ## Dense
 
