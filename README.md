@@ -114,7 +114,9 @@ A personal list of papers and resources for image matching, pose estimation and 
    
    * A more reliable local-global-guided network for correspondence pruning [[Pattern Recognition Letters 2024](https://www.sciencedirect.com/science/article/abs/pii/S0167865524000746)] [[LG-Net](https://github.com/qiwenjjin/LG-Net)]
 
-  * MESA: Matching Everything by Segmenting Anything [[arXiv 2024](https://arxiv.org/pdf/2401.16741.pdf)] [[]()]
+  * MESA: Matching Everything by Segmenting Anything [[CVPR 2024](https://arxiv.org/pdf/2401.16741.pdf)] [[A2PM-MESA](https://github.com/Easonyesheng/A2PM-MESA)]
+
+ * DMESA: Densely Matching Everything by Segmenting Anything [[arXiv 2024](https://arxiv.org/pdf/2408.00279)] [[A2PM-MESA](https://github.com/Easonyesheng/A2PM-MESA)]
 
   * FC-GNN: Recovering Reliable and Accurate Correspondences from Interferences [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_FC-GNN_Recovering_Reliable_and_Accurate_Correspondences_from_Interferences_CVPR_2024_paper.pdf)] [[fcgnn](https://github.com/xuy123456/fcgnn)]
 
@@ -209,7 +211,7 @@ A personal list of papers and resources for image matching, pose estimation and 
 
   * MAIM: a mixer MLP architecture for image matching [[Unknown 2023](https://www.researchgate.net/publication/370365750_MAIM_a_mixer_MLP_architecture_for_image_matching)] [[]()]
  
- * Searching from Area to Point: A Hierarchical Framework for Semantic-Geometric Combined Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2305.00194.pdf)] [[]()]
+ * Searching from Area to Point: A Hierarchical Framework for Semantic-Geometric Combined Feature Matching [[arXiv 2023](https://arxiv.org/pdf/2305.00194.pdf)] [[SGAM](https://github.com/Easonyesheng/SGAM)]
 
  * Adaptive Assignment for Geometry Aware Local Feature Matching [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Adaptive_Assignment_for_Geometry_Aware_Local_Feature_Matching_CVPR_2023_paper.pdf)] [[AdaMatcher](https://github.com/TencentYoutuResearch/AdaMatcher)]
 
