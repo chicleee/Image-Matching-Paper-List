@@ -351,6 +351,8 @@ A personal list of papers and resources for image matching, pose estimation and 
   
    * [deep-image-matching](https://github.com/3DOM-FBK/deep-image-matching)
 
+   * [image-matching-toolbox](https://github.com/GrumpyZhou/image-matching-toolbox)
+   
 ---
 Format:
    * Title [[journal year]()] [[repo]()]
