@@ -324,6 +324,8 @@ A personal list of papers and resources for image matching, pose estimation and 
 
    * Map-Relative Pose Regression for Visual Re-Localization [[CVPR 2024](https://arxiv.org/pdf/2404.09884.pdf)] [[marepo](https://github.com/nianticlabs/marepo)]
 
+   * SRPose: Two-view Relative Pose Estimation With Sparse Keypoints [[ECCV 2024](https://arxiv.org/pdf/2407.08199)] [[SRPose](https://github.com/frickyinn/SRPose)]
+   
 ---
 ## Similar images disambiguate
    * Doppelgangers: Learning to Disambiguate Images of Similar Structures [[ICCV 2023](https://arxiv.org/pdf/2309.02420.pdf)] [[Doppelgangers](https://github.com/RuojinCai/Doppelgangers)]
