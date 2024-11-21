@@ -234,6 +234,10 @@ A personal list of papers and resources for image matching, pose estimation and 
 * Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching [[arXiv 2024](https://arxiv.org/pdf/2405.13874)] [[]()]
 
 * Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching [[ECCV 2024](https://arxiv.org/html/2407.07789v1)] [[]()]
+
+* Eto: Efficient transformer-based local feature matching by organizing multiple homography hypotheses [[arXiv 2024](https://arxiv.org/pdf/2410.22733)] [[]()]
+
+* HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation [[arXiv 2024](https://arxiv.org/pdf/2411.06700)] [[]()]
   
 ## Dense
 
