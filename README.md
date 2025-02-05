@@ -157,6 +157,8 @@ A personal list of papers and resources for image matching, pose estimation and 
 
    * OmniGlue: Generalizable Feature Matching with Foundation Model Guidance [[CVPR 2024](https://arxiv.org/pdf/2405.12979)] [[omniglue](https://github.com/google-research/omniglue)]
 
+   * MambaGlue: Fast and Robust Local Feature Matching With Mamba [[ICRA 2025](https://arxiv.org/pdf/2502.00462)] [[MambaGlue](https://github.com/url-kaist/MambaGlue)]
+
 #### Refinement
 
    * Learning to Make Keypoints Sub-Pixel Accurate [[ECCV_2023](https://www.arxiv.org/pdf/2407.11668)] [[keypt2subpx](https://github.com/KimSinjeong/keypt2subpx)]
