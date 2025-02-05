@@ -151,7 +151,7 @@ A personal list of papers and resources for image matching, pose estimation and 
 
    * IMP: Iterative Matching and Pose Estimation with Adaptive Pooling [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)] [[imp-release](https://github.com/feixue94/imp-release)]
 
-   * Scene-Aware Feature Matching [[ICCV_2023](https://arxiv.org/pdf/2308.09949.pdf)] [[]()]
+   * Scene-Aware Feature Matching [[ICCV 2023](https://arxiv.org/pdf/2308.09949.pdf)] [[]()]
 
    * DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks [[arXiv 2024](https://arxiv.org/pdf/2403.11370.pdf)] [[]()]
 
