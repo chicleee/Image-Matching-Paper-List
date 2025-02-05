@@ -161,7 +161,7 @@ A personal list of papers and resources for image matching, pose estimation and 
 
 #### Refinement
 
-   * Learning to Make Keypoints Sub-Pixel Accurate [[ECCV_2023](https://www.arxiv.org/pdf/2407.11668)] [[keypt2subpx](https://github.com/KimSinjeong/keypt2subpx)]
+   * Learning to Make Keypoints Sub-Pixel Accurate [[ECCV 2024](https://www.arxiv.org/pdf/2407.11668)] [[keypt2subpx](https://github.com/KimSinjeong/keypt2subpx)]
 
      
 ---
