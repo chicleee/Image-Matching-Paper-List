@@ -91,6 +91,8 @@ A personal list of papers and resources for image matching, pose estimation and 
   * DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector [[CVPRW 2024](https://arxiv.org/pdf/2404.08928.pdf)] [[DeDoDe](https://github.com/Parskatt/DeDoDe)]
     
   * XFeat: Accelerated Features for Lightweight Image Matching [[CVPR 2024](https://arxiv.org/pdf/2404.19174)] [[accelerated_features](https://github.com/verlab/accelerated_features)]
+   
+  * DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection [[arXiv 2025](https://arxiv.org/pdf/2503.07347)] [[dad](https://github.com/parskatt/dad)]
     
 ### Feature matching
 #### Filter
