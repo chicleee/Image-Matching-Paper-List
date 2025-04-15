@@ -161,6 +161,8 @@ A personal list of papers and resources for image matching, pose estimation and 
 
    * MambaGlue: Fast and Robust Local Feature Matching With Mamba [[ICRA 2025](https://arxiv.org/pdf/2502.00462)] [[MambaGlue](https://github.com/url-kaist/MambaGlue)]
 
+   * CoMatcher: Multi-View Collaborative Feature Matching [[arXiv 2025](https://arxiv.org/pdf/2504.01872?)] [[]()]
+
 #### Refinement
 
    * Learning to Make Keypoints Sub-Pixel Accurate [[ECCV 2024](https://www.arxiv.org/pdf/2407.11668)] [[keypt2subpx](https://github.com/KimSinjeong/keypt2subpx)]
@@ -248,7 +250,11 @@ A personal list of papers and resources for image matching, pose estimation and 
 * JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba [[CVPR 2025](https://arxiv.org/pdf/2503.03437)] [[JamMa](https://github.com/leoluxxx/JamMa)]
 
 * EDM: Efficient Deep Feature Matching [[arXiv 2025](https://arxiv.org/pdf/2503.05122)] [[EDM](https://github.com/chicleee/EDM)]
-      
+
+* HomoMatcher: Achieving Dense Feature Matching with Semi-Dense Effciency by Homography Estimation [[AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32857/35012)] [[]()]
+
+* CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching [[arXiv 2025](https://arxiv.org/pdf/2503.23925)] [[]()]
+
 ## Dense
 
    * Dgc-net: Dense geometric correspondence network [[WACV 2019](https://arxiv.org/pdf/1810.08393.pdf)] [[DGC-Net](https://github.com/AaltoVision/DGC-Net)]
@@ -277,6 +283,8 @@ A personal list of papers and resources for image matching, pose estimation and 
 
    * RGM: A Robust Generalist Matching Model [[arXiv 2023](https://arxiv.org/pdf/2310.11755.pdf)] [[RGM](https://github.com/aim-uofa/RGM)]
 
+   * Learning Affine Correspondences by Integrating Geometric Constraints [[CVPR 2025](https://arxiv.org/pdf/2504.04834)] [[DenseAffine](https://github.com/stilcrad/DenseAffine)]
+ 
 ---
 ## Training framework
 
