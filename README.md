@@ -93,7 +93,9 @@ A personal list of papers and resources for image matching, pose estimation and 
   * XFeat: Accelerated Features for Lightweight Image Matching [[CVPR 2024](https://arxiv.org/pdf/2404.19174)] [[accelerated_features](https://github.com/verlab/accelerated_features)]
    
   * DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection [[arXiv 2025](https://arxiv.org/pdf/2503.07347)] [[dad](https://github.com/parskatt/dad)]
-    
+
+  * LiftFeat: 3D Geometry-Aware Local Feature Matching [[ICRA 2025](https://arxiv.org/pdf/2505.03422v1)] [[LiftFeat](https://github.com/lyp-deeplearning/LiftFeat)]
+
 ### Feature matching
 #### Filter
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
@@ -254,6 +256,8 @@ A personal list of papers and resources for image matching, pose estimation and 
 * HomoMatcher: Achieving Dense Feature Matching with Semi-Dense Effciency by Homography Estimation [[AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32857/35012)] [[]()]
 
 * CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching [[arXiv 2025](https://arxiv.org/pdf/2503.23925)] [[]()]
+
+* Focus What Matters: Matchability-Based Reweighting for Local Feature Matching [[arXiv 2025](https://arxiv.org/pdf/2505.02161)] [[]()]
 
 ## Dense
 
