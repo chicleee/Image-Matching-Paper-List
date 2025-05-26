@@ -46,7 +46,9 @@ A personal list of papers and resources for image matching, pose estimation and 
    * DISK: Learning local features with policy gradient [[NeurIPS 2020](https://arxiv.org/pdf/2006.13566.pdf)] [[disk](https://github.com/cvlab-epfl/disk)]
    
    * Online Invariance Selection for Local Feature Descriptors [[ECCV 2020](https://arxiv.org/pdf/2007.08988.pdf)] [[LISRD](https://github.com/rpautrat/LISRD)]
-
+   
+   * Learning Feature Descriptors using Camera Pose Supervision [[ECCV 2020](https://arxiv.org/pdf/2004.13324)] [[CAPS](https://qianqianwang68.github.io/CAPS)]
+   
    * Co-attention for conditioned image matching
     [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Wiles_Co-Attention_for_Conditioned_Image_Matching_CVPR_2021_paper.pdf)] [[coam](https://github.com/hyenal/coam)]
     
