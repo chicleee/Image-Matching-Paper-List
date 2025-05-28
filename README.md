@@ -219,7 +219,7 @@ A personal list of papers and resources for image matching, pose estimation and 
    
    * GlueStick: Robust Image Matching by Sticking Points and Lines Together [[ICCV 2023](https://arxiv.org/pdf/2304.02008v1.pdf)] [[GlueStick](https://github.com/cvg/GlueStick)]
    
-   * E3CM: Epipolar-Constrained Cascade Correspondence Matching [[ssrn](https://deliverypdf.ssrn.com/delivery.php?ID=466101127096068115002104021110028109028027010042065026093047035108019046034025018076127124085118082122091102017004101067070000026084031074101107098016015007037090116038089124089041109039116122125126054094010014019119091093096019011031074029016031100089074070066098000006105073022119064086107&EXT=pdf&INDEX=TRUE)] [[]()]
+   * E3CM: Epipolar-Constrained Cascade Correspondence Matching [[Neurocomputing 2023](https://arxiv.org/pdf/2308.16555)] [[E3CM](https://github.com/bobojiang26/E3CM-Epipolar-Constrained-Cascaded-Correspondence-Matching)]
 
   * MAIM: a mixer MLP architecture for image matching [[Unknown 2023](https://www.researchgate.net/publication/370365750_MAIM_a_mixer_MLP_architecture_for_image_matching)] [[]()]
  
