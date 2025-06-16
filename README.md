@@ -21,6 +21,8 @@ A personal list of papers and resources for image matching, pose estimation and 
      
    * Local feature matching from detector-based to detector-free: a survey [[Applied Intelligence 2024](https://link.springer.com/article/10.1007/s10489-024-05330-3)] [[]()]  ()
 
+   * Deep Learning Reforms Image Matching: A Survey and Outlook [[arXiv 2025](https://arxiv.org/pdf/2506.04619)] [[]()]
+     
 ## Sparse
 ### Keypoints and descriptors
    * ORB: An efficient alternative to SIFT or SURF [[ICCV 2011](http://www.evreninsirlari.net/dosyalar/145_s14_01.pdf)] [[]()]
