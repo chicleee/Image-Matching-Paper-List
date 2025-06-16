@@ -100,7 +100,7 @@ A personal list of papers and resources for image matching, pose estimation and 
 
 ### Feature matching
 #### Filter
-   * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020]()] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
+   * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020](https://link.springer.com/content/pdf/10.1007/s11263-019-01280-3.pdf)] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
 
    * Learning Two-View Correspondences and Geometry Using Order-Aware Network [[ICCV 2019](https://arxiv.org/pdf/1908.04964.pdf)] [[OANet](https://github.com/zjhthu/OANet)]
    
