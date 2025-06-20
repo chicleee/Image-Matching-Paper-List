@@ -164,7 +164,9 @@ A personal list of papers and resources for image matching, pose estimation and 
    * DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks [[arXiv 2024](https://arxiv.org/pdf/2403.11370.pdf)] [[]()]
 
    * OmniGlue: Generalizable Feature Matching with Foundation Model Guidance [[CVPR 2024](https://arxiv.org/pdf/2405.12979)] [[omniglue](https://github.com/google-research/omniglue)]
-
+   
+   * DiffGlue: Diffusion-Aided Image Feature Matching [[ACM MM 2024](https://dlnext.acm.org/doi/10.1145/3664647.3681069)] [[DiffGlue](https://github.com/SuhZhang/DiffGlue)]
+     
    * MambaGlue: Fast and Robust Local Feature Matching With Mamba [[ICRA 2025](https://arxiv.org/pdf/2502.00462)] [[MambaGlue](https://github.com/url-kaist/MambaGlue)]
 
    * CoMatcher: Multi-View Collaborative Feature Matching [[arXiv 2025](https://arxiv.org/pdf/2504.01872?)] [[]()]
