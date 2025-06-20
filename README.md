@@ -133,6 +133,8 @@ A personal list of papers and resources for image matching, pose estimation and 
   * DeMatch: Deep Decomposition of Motion Field for Two-View Correspondence Learning [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_DeMatch_Deep_Decomposition_of_Motion_Field_for_Two-View_Correspondence_Learning_CVPR_2024_paper.pdf)] [[DeMatch](https://github.com/SuhZhang/DeMatch)]
 
  * Image Matching Filtering and Refinement by Planes and Beyond [[arXiv 2024](https://arxiv.org/pdf/2411.09484)] [[MiHo](https://github.com/fb82/MiHo)]
+
+ * DeMo: Deep Motion Field Consensus with Learnable Kernels for Two-view Correspondence Learning [[AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/32622/34777)] [[DeMo](https://github.com/JiajunLe/DeMo)]
     
 #### Matcher
    * SuperGlue: Learning Feature Matching with Graph Neural Networks [[CVPR 2020](https://arxiv.org/pdf/1911.11763.pdf)] [[SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork)]
