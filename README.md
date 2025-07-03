@@ -261,7 +261,7 @@ A personal list of papers and resources for image matching, pose estimation and 
 
 * JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba [[CVPR 2025](https://arxiv.org/pdf/2503.03437)] [[JamMa](https://github.com/leoluxxx/JamMa)]
 
-* EDM: Efficient Deep Feature Matching [[arXiv 2025](https://arxiv.org/pdf/2503.05122v2)] [[EDM](https://github.com/chicleee/EDM)]
+* EDM: Efficient Deep Feature Matching [[ICCV 2025](https://arxiv.org/pdf/2503.05122v2)] [[EDM](https://github.com/chicleee/EDM)]
 
 * HomoMatcher: Achieving Dense Feature Matching with Semi-Dense Effciency by Homography Estimation [[AAAI 2025](https://arxiv.org/pdf/2411.06700)] [[]()]
 
