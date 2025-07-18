@@ -100,6 +100,8 @@ A personal list of papers and resources for image matching, pose estimation and 
 
   * LiftFeat: 3D Geometry-Aware Local Feature Matching [[ICRA 2025](https://arxiv.org/pdf/2505.03422v1)] [[LiftFeat](https://github.com/lyp-deeplearning/LiftFeat)]
 
+  * RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction [[ICCV 2025](https://arxiv.org/pdf/2507.04839)] [[RIPE](https://github.com/fraunhoferhhi/RIPE)]
+
 ### Feature matching
 #### Filter
    * GMS: Grid-based Motion Statistics for Fast, Ultra-Robust Feature Correspondence [[IJCV 2020](https://link.springer.com/content/pdf/10.1007/s11263-019-01280-3.pdf)] [[GMS-Feature-Matcher](https://github.com/JiawangBian/GMS-Feature-Matcher)]
@@ -269,6 +271,8 @@ A personal list of papers and resources for image matching, pose estimation and 
 
 * Focus What Matters: Matchability-Based Reweighting for Local Feature Matching [[arXiv 2025](https://arxiv.org/pdf/2505.02161)] [[]()]
 
+* Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching [[ICCV 2025](https://arxiv.org/pdf/2507.10318)] [[]()]
+
 ## Dense
 
    * Dgc-net: Dense geometric correspondence network [[WACV 2019](https://arxiv.org/pdf/1810.08393.pdf)] [[DGC-Net](https://github.com/AaltoVision/DGC-Net)]
@@ -298,6 +302,8 @@ A personal list of papers and resources for image matching, pose estimation and 
    * RGM: A Robust Generalist Matching Model [[arXiv 2023](https://arxiv.org/pdf/2310.11755.pdf)] [[RGM](https://github.com/aim-uofa/RGM)]
 
    * Learning Affine Correspondences by Integrating Geometric Constraints [[CVPR 2025](https://arxiv.org/pdf/2504.04834)] [[DenseAffine](https://github.com/stilcrad/DenseAffine)]
+
+   * Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space [[ICCV 2025](https://arxiv.org/pdf/2507.00392)] [[L2M](https://github.com/Sharpiless/L2M)]
  
 ---
 ## Training framework
