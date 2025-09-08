@@ -179,6 +179,8 @@ A personal list of papers and resources for image matching, pose estimation and 
 
    * Matching While Perceiving: Enhance Image Feature Matching with Applicable Semantic Amalgamation [[AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33095/35250)] [[SemaGlue](https://github.com/ZeJ-Zhu/SemaGlue)]
 
+   * GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network [[Neural Networks 2025](https://arxiv.org/pdf/2412.18221)] [[GIMS](https://github.com/songxf1024/GIMS)]
+  
 #### Refinement
 
    * Learning to Make Keypoints Sub-Pixel Accurate [[ECCV 2024](https://www.arxiv.org/pdf/2407.11668)] [[keypt2subpx](https://github.com/KimSinjeong/keypt2subpx)]
