@@ -306,7 +306,8 @@ A personal list of papers and resources for image matching, pose estimation and 
    * Learning Affine Correspondences by Integrating Geometric Constraints [[CVPR 2025](https://arxiv.org/pdf/2504.04834)] [[DenseAffine](https://github.com/stilcrad/DenseAffine)]
 
    * Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space [[ICCV 2025](https://arxiv.org/pdf/2507.00392)] [[L2M](https://github.com/Sharpiless/L2M)]
- 
+
+   * ArgMatch: Adaptive Refinement Gathering for Efficient Dense Matching [[ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Deng_ArgMatch_Adaptive_Refinement_Gathering_for_Efficient_Dense_Matching_ICCV_2025_paper.pdf)] [[argmatch](https://github.com/ACuOoOoO/argmatch)]
 ---
 ## Training framework
 
