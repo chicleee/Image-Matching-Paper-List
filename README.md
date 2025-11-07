@@ -8,6 +8,7 @@ A personal list of papers and resources for image matching, pose estimation and 
    - [Feature matching](#feature-matching)
 - [Semi-dense matching (detector-free)](#semi-dense)
 - [Dense matching](#dense)
+- [Multi-view](#multi-view)
 - [Training framework](#training-framework)
 - [Pose estimation and others](#pose-estimation-and-others)
 - [Similar images disambiguate](#similar-images-disambiguate)
@@ -309,6 +310,11 @@ A personal list of papers and resources for image matching, pose estimation and 
 
    * ArgMatch: Adaptive Refinement Gathering for Efficient Dense Matching [[ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Deng_ArgMatch_Adaptive_Refinement_Gathering_for_Efficient_Dense_Matching_ICCV_2025_paper.pdf)] [[argmatch](https://github.com/ACuOoOoO/argmatch)]
 ---
+## Multi-view
+   * End2End Multi-View Feature Matching with Differentiable Pose Optimization [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Roessle_End2End_Multi-View_Feature_Matching_with_Differentiable_Pose_Optimization_ICCV_2023_paper.pdf)] [[e2e_multi_view_matching](https://github.com/barbararoessle/e2e_multi_view_matching)]
+
+   * CoMatcher: Multi-View Collaborative Feature Matching [[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_CoMatcher_Multi-View_Collaborative_Feature_Matching_CVPR_2025_paper.pdf)] [[CoMatcher](https://github.com/EATMustard/CoMatcher)]
+---
 ## Training framework
 
    * GIM: Learning Generalizable Image Matcher From Internet Videos [[ICLR 2024](https://arxiv.org/pdf/2402.11095.pdf)] [[gim](https://github.com/xuelunshen/gim)]
@@ -342,8 +348,6 @@ A personal list of papers and resources for image matching, pose estimation and 
    * :globe_with_meridians: Pose Estimation for Two-View Panoramas: a Comparative Analysis [[CVPRW 2022](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Murrugarra-Llerena_Pose_Estimation_for_Two-View_Panoramas_Based_on_Keypoint_Matching_A_CVPRW_2022_paper.pdf)] [[Keypoints](https://github.com/Artcs1/Keypoints)]
 
    * The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs [[3DV 2022](https://crockwell.github.io/rel_pose/data/paper.pdf)] [[rel_pose](https://github.com/crockwell/rel_pose)]
-
-   * End2End Multi-View Feature Matching with Differentiable Pose Optimization [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Roessle_End2End_Multi-View_Feature_Matching_with_Differentiable_Pose_Optimization_ICCV_2023_paper.pdf)] [[e2e_multi_view_matching](https://github.com/barbararoessle/e2e_multi_view_matching)]
 
    * :globe_with_meridians: CoVisPose: Co-visibility Pose Transformer for Wide-Baseline Relative Pose Estimation in 360  Indoor Panoramas [[ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)] [[]()]
 
