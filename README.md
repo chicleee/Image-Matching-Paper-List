@@ -181,6 +181,7 @@ A personal list of papers and resources for image matching, pose estimation and 
    * Matching While Perceiving: Enhance Image Feature Matching with Applicable Semantic Amalgamation [[AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/33095/35250)] [[SemaGlue](https://github.com/ZeJ-Zhu/SemaGlue)]
 
    * GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network [[Neural Networks 2025](https://arxiv.org/pdf/2412.18221)] [[GIMS](https://github.com/songxf1024/GIMS)]
+
   
 #### Refinement
 
@@ -309,6 +310,9 @@ A personal list of papers and resources for image matching, pose estimation and 
    * Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space [[ICCV 2025](https://arxiv.org/pdf/2507.00392)] [[L2M](https://github.com/Sharpiless/L2M)]
 
    * ArgMatch: Adaptive Refinement Gathering for Efficient Dense Matching [[ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Deng_ArgMatch_Adaptive_Refinement_Gathering_for_Efficient_Dense_Matching_ICCV_2025_paper.pdf)] [[argmatch](https://github.com/ACuOoOoO/argmatch)]
+
+   * RoMa v2: Harder Better Faster Denser Feature Matching [[arXiv 2025](https://arxiv.org/pdf/2511.15706)] [[romav2](https://github.com/Parskatt/romav2)]
+
 ---
 ## Multi-view
    * End2End Multi-View Feature Matching with Differentiable Pose Optimization [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Roessle_End2End_Multi-View_Feature_Matching_with_Differentiable_Pose_Optimization_ICCV_2023_paper.pdf)] [[e2e_multi_view_matching](https://github.com/barbararoessle/e2e_multi_view_matching)]
